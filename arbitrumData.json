@@ -1,0 +1,4770 @@
+[
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "0x",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/09/sHGUQ_0F_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.0x.org/",
+        "discord_link": "https://discord.com/invite/official0x",
+        "twitter_link": "https://twitter.com/0xProject",
+        "additional_link": "https://github.com/0xProject"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "0xSplits",
+        "description": "",
+        "dao_category": [
+            "Payments"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/10/0XSplits_logo.jpeg",
+        "dao_cover": "",
+        "website_link": "https://www.0xsplits.xyz/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/0xSplits",
+        "additional_link": "https://github.com/0xSplits"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "1inch",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/09/LwPtET72_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://app.1inch.io/#/42161/",
+        "discord_link": "https://discord.com/invite/1inch",
+        "twitter_link": "https://twitter.com/1inch",
+        "additional_link": "https://github.com/1inch"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Aave",
+        "description": "",
+        "dao_category": [
+            "Lending"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/J1YJtvdI_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://app.aave.com/?marketName=proto_arbitrum_v3",
+        "discord_link": "https://discord.com/invite/adPfquZDZc",
+        "twitter_link": "https://twitter.com/aaveaave",
+        "additional_link": "https://github.com/aave/aave-protocol"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Aboard Exchange",
+        "description": "",
+        "dao_category": [
+            "Perpetuals"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/01/photo_2022-09-07-17.59.49.jpeg",
+        "dao_cover": "",
+        "website_link": "https://aboard.exchange/",
+        "discord_link": "https://discord.com/invite/n7r73ehJtf",
+        "twitter_link": "https://twitter.com/AboardExchange",
+        "additional_link": "https://github.com/aboard-exchange"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Across",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/11/photo_2021-11-16_18-21-13.jpg",
+        "dao_cover": "",
+        "website_link": "https://across.to/",
+        "discord_link": "https://discord.com/invite/across",
+        "twitter_link": "https://twitter.com/AcrossProtocol",
+        "additional_link": "https://github.com/across-protocol/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Adamant",
+        "description": "",
+        "dao_category": [
+            "Yield Optimization"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/10/adamant-Pedro-1.png",
+        "dao_cover": "",
+        "website_link": "https://adamant.finance/",
+        "discord_link": "https://discord.gg/FVpxzVzZMc",
+        "twitter_link": "https://twitter.com/AdamantVault",
+        "additional_link": "https://github.com/eepdev/adamantfinance"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Alchemy",
+        "description": "",
+        "dao_category": [
+            "Node Providers"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/WPs0ZMk5_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://www.alchemy.com/",
+        "discord_link": "https://discord.com/invite/mMGsVgd",
+        "twitter_link": "https://twitter.com/AlchemyPlatform",
+        "additional_link": "https://github.com/alchemyplatform"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Ambire Wallet",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/ambire1.jpeg",
+        "dao_cover": "",
+        "website_link": "https://www.ambire.com/",
+        "discord_link": "https://discord.com/invite/nMBGJsb",
+        "twitter_link": "https://twitter.com/AmbireWallet",
+        "additional_link": "https://github.com/AmbireTech"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Angle Protocol",
+        "description": "",
+        "dao_category": [
+            "Stablecoins"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/oQqfiQ_F_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://angle.money",
+        "discord_link": "https://discord.gg/4FtNgnpPgE",
+        "twitter_link": "https://twitter.com/AngleProtocol",
+        "additional_link": "https://github.com/AngleProtocol"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Ankr",
+        "description": "",
+        "dao_category": [
+            "Node Providers"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/5Ss6nSM-_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.ankr.com/protocol/public/",
+        "discord_link": "https://discord.com/invite/uYaNu23Ww7",
+        "twitter_link": "https://twitter.com/ankr",
+        "additional_link": "https://github.com/Ankr-network"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "ApeX",
+        "description": "",
+        "dao_category": [
+            "Perpetuals"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/APEX-logo-Kelvin-Chen.png",
+        "dao_cover": "",
+        "website_link": "https://apex.exchange/",
+        "discord_link": "https://discord.com/invite/366Puqavwx",
+        "twitter_link": "https://twitter.com/OfficialApeXdex",
+        "additional_link": "https://github.com/ApeX-Protocol/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "API3 QRNG",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/10/api3_logo.jpeg",
+        "dao_cover": "",
+        "website_link": "https://api3.org/QRNG",
+        "discord_link": "http://api3.org/goto/discord",
+        "twitter_link": "https://twitter.com/api3dao",
+        "additional_link": "https://github.com/api3dao"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Arbibots",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/EmmrxEfa_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://arbibots.xyz/",
+        "discord_link": "https://discord.com/invite/XexypHDYaF",
+        "twitter_link": "https://twitter.com/arbibotsNFT",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Arbidudes",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/4i8woP6E_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.arbidudes.com/",
+        "discord_link": "https://discord.com/invite/VCkNw3bWEH",
+        "twitter_link": "https://twitter.com/ArbiDudes",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Arbiproject",
+        "description": "",
+        "dao_category": [
+            "Directories"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/ayXt7kqN_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.arbiproject.io/project",
+        "discord_link": "https://discord.gg/WNbkTnjrAC",
+        "twitter_link": "https://twitter.com/arbiproject",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Arbitrum News DAO",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/06/hi6IPZXQ_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://twitter.com/ArbitrumNewsDAO",
+        "discord_link": "https://discord.com/invite/ArbitrumNewsDAO",
+        "twitter_link": "https://twitter.com/ArbitrumNewsDAO",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Arken.Finance",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/03/zI9I8cSj_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://swap.arken.finance/",
+        "discord_link": "https://discord.gg/4uBW6cg9",
+        "twitter_link": "https://twitter.com/ArkenFinance",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Assure wallet",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/IGN2xwxs_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.assure.pro/#/",
+        "discord_link": "https://discord.com/invite/39qdzJZnCY",
+        "twitter_link": "https://mobile.twitter.com/Assure_pro",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Atomic Green",
+        "description": "",
+        "dao_category": [
+            "Perpetuals"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/09/XsFvPZDF_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://atomic.green",
+        "discord_link": "https://discord.gg/RnhR5mSzea",
+        "twitter_link": "https://twitter.com/atomic__green",
+        "additional_link": "https://github.com/Atomicgreen"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Auctus",
+        "description": "",
+        "dao_category": [
+            "Options"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/6Gjt4Qvl_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://auctus.org/",
+        "discord_link": "https://discord.com/invite/9JqeMxs",
+        "twitter_link": "https://twitter.com/AuctusOptions",
+        "additional_link": "https://github.com/AuctusProject"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "B.Protocol",
+        "description": "",
+        "dao_category": [
+            "Lending"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/5tO76MIG_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.bprotocol.org/",
+        "discord_link": "https://discord.gg/bJ4guuw",
+        "twitter_link": "https://twitter.com/bprotocoleth",
+        "additional_link": "https://github.com/backstop-protocol"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Babylons NFT Marketplace",
+        "description": "",
+        "dao_category": [
+            "NFT Marketplaces"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/10/Babylons_logo.jpeg",
+        "dao_cover": "",
+        "website_link": "http://babylons.io",
+        "discord_link": "https://discord.com/invite/Cg5E8gW8au",
+        "twitter_link": "https://twitter.com/BabylonsNFT",
+        "additional_link": "https://github.com/babylons-io"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Badger",
+        "description": "",
+        "dao_category": [
+            "Yield Optimization"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/09/badgerdude.jpg",
+        "dao_cover": "",
+        "website_link": "https://app.badger.com/",
+        "discord_link": "https://discord.com/invite/xSPFHHS",
+        "twitter_link": "https://twitter.com/BadgerDAO",
+        "additional_link": "https://github.com/Badger-Finance"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Balancer",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/RYCU7_dZ_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://arbitrum.balancer.fi/",
+        "discord_link": "https://discord.com/invite/ARJWaeF",
+        "twitter_link": "https://twitter.com/BalancerLabs",
+        "additional_link": "https://github.com/balancer-labs/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Band Protocol",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/ohhSUimj_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://bandprotocol.com/",
+        "discord_link": "https://discord.com/invite/3t4bsY7",
+        "twitter_link": "https://twitter.com/BandProtocol",
+        "additional_link": "https://github.com/bandprotocol"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Banxa",
+        "description": "",
+        "dao_category": [
+            "Fiat On-Ramp"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/12/Banxa-Icon-RGB.png",
+        "dao_cover": "",
+        "website_link": "https://arbitrum.banxa.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/banxaofficial",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "BarnBridge",
+        "description": "",
+        "dao_category": [
+            "dApps"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/10/m_ZIw4kb_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://app.barnbridge.com/smart-alpha/pools",
+        "discord_link": "https://discord.gg/barnbridge",
+        "twitter_link": "https://twitter.com/Barn_Bridge",
+        "additional_link": "https://github.com/barnbridge"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "BattleFly",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/S0FGF16U_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://battlefly.game/",
+        "discord_link": "https://discord.gg/YzpajBfRNX ",
+        "twitter_link": "https://twitter.com/BattleFlyGame",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Beefy Finance",
+        "description": "",
+        "dao_category": [
+            "Yield Optimization"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/09/F-3dn1LR_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://app.beefy.finance/#/arbitrum",
+        "discord_link": "https://discord.com/invite/beefyfinance",
+        "twitter_link": "https://twitter.com/beefyfinance",
+        "additional_link": "https://github.com/beefyfinance"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Biconomy",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/Vnjvt8t6_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.biconomy.io/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/biconomy",
+        "additional_link": "https://github.com/bcnmy"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Biconomy Hyphen",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/07/Vnjvt8t6_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://hyphen.biconomy.io/",
+        "discord_link": "https://discord.gg/biconomy",
+        "twitter_link": "https://twitter.com/biconomy",
+        "additional_link": "https://github.com/bcnmy/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Binance",
+        "description": "",
+        "dao_category": [
+            "Centralized Exchanges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/11/i0KjbCry_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.binance.com",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/binance",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Bitget",
+        "description": "",
+        "dao_category": [
+            "Centralized Exchanges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/bitget.jpeg",
+        "dao_cover": "",
+        "website_link": "https://www.bitget.com/en/",
+        "discord_link": "https://discord.com/invite/TzDzd4dCds",
+        "twitter_link": "https://twitter.com/bitgetglobal",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "BitKeep Wallet",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/04/o55RkJmR_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://bitkeep.com/",
+        "discord_link": "https://discord.com/invite/gUQB7gUarR",
+        "twitter_link": "https://twitter.com/BitKeepOS",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Blockpour",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/10/Blockpour_logo.jpeg",
+        "dao_cover": "",
+        "website_link": "http://app.blockpour.com",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/Blockpour",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "BlockVision",
+        "description": "",
+        "dao_category": [
+            "Node Providers"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/03/icon-violet-bw-circle-Jade-Wang.png",
+        "dao_cover": "",
+        "website_link": "https://blockvision.org/",
+        "discord_link": "https://discord.com/invite/Re6prK86Tr",
+        "twitter_link": "https://twitter.com/blockvisionhq",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "BlockWallet",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/D9ItHHM_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://blockwallet.io/",
+        "discord_link": "https://discord.gg/JruPgHB8",
+        "twitter_link": "https://twitter.com/GetBlockWallet",
+        "additional_link": "https://github.com/block-wallet"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "BoringDAO",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/BoringDAO-Logo-Jenny-Jiang.png",
+        "dao_cover": "",
+        "website_link": "https://www.boringdao.com/",
+        "discord_link": "https://discord.com/invite/uNvD4e3HnM",
+        "twitter_link": "https://twitter.com/TheBoringDAO",
+        "additional_link": "https://github.com/BoringDAO"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Bridge Network",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/07/n0tl-czX_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.bridgenetwork.com/",
+        "discord_link": "https://discord.gg/PGHnWapB8u",
+        "twitter_link": "https://twitter.com/bridgenetwork0x",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Bridge Wallet",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/03/bridgewallet.png",
+        "dao_cover": "",
+        "website_link": "https://www.mtpelerin.com/bridge-wallet",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/mtpelerin",
+        "additional_link": "https://github.com/MtPelerin"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Bridgeworld",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/OkvzjY18_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://bridgeworld.treasure.lol/",
+        "discord_link": "https://discord.com/invite/treasuredao",
+        "twitter_link": "https://twitter.com/playbridgeworld",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Brinc finance",
+        "description": "",
+        "dao_category": [
+            "Stablecoins"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/BRC-sign-Luke-Shim.png",
+        "dao_cover": "",
+        "website_link": "http://Brinc.fi",
+        "discord_link": "https://discord.gg/qgPVD7gK",
+        "twitter_link": "https://twitter.com/BrincFi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "additional_link": "https://github.com/brinc-finance"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Bundlr Network",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/Kv_3FJUi_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://bundlr.network/",
+        "discord_link": "https://discord.com/invite/Mqbsxvs4Z4",
+        "twitter_link": "https://twitter.com/BundlrNetwork",
+        "additional_link": "https://github.com/Bundlr-Network"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Bungee",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/03/iaZusYQ__400x400.png",
+        "dao_cover": "",
+        "website_link": "https://www.bungee.exchange/",
+        "discord_link": "https://discord.com/invite/zfKJR8yWaH",
+        "twitter_link": "https://twitter.com/bungeeexchange?s=21",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Bybit",
+        "description": "",
+        "dao_category": [
+            "Centralized Exchanges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/01/20220126-215931.png",
+        "dao_cover": "",
+        "website_link": "https://www.bybit.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/Bybit_Official",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Cap",
+        "description": "",
+        "dao_category": [
+            "Perpetuals"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/Ma_29lao_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.cap.finance/",
+        "discord_link": "https://discord.gg/RBzQQVGhjf",
+        "twitter_link": "https://twitter.com/CapDotFinance",
+        "additional_link": "https://github.com/0xcap"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Cask Protocol",
+        "description": "",
+        "dao_category": [
+            "Payments"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/10/cask_logo.jpeg",
+        "dao_cover": "",
+        "website_link": "https://www.cask.fi",
+        "discord_link": "https://discord.gg/mbmFKr9xeu",
+        "twitter_link": "https://www.twitter.com/caskprotocol",
+        "additional_link": "https://github.com/CaskProtocol/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "CastleDAO",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/7nLGRpde_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "http://castledao.com",
+        "discord_link": "https://discord.com/invite/8sYecquV9E",
+        "twitter_link": "https://twitter.com/castlesdao2",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Celer cBridge",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/B_whzxUt_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://cbridge.celer.network/#/",
+        "discord_link": "https://discord.com/invite/Trhab5w",
+        "twitter_link": "https://twitter.com/CelerNetwork",
+        "additional_link": "https://github.com/celer-network"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Ceramic Network",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/06/QoGbRSMz_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://ceramic.network/",
+        "discord_link": "https://discord.gg/Z9ebcYwbHk",
+        "twitter_link": "https://twitter.com/ceramicnetwork",
+        "additional_link": "https://github.com/ceramicnetwork/ceramic"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Chainbase",
+        "description": "",
+        "dao_category": [
+            "Node Providers"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/dLFnBl2O_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.chainbase.online/",
+        "discord_link": "https://discord.gg/kYrpZuwv6e",
+        "twitter_link": "https://twitter.com/ChainbaseOnline",
+        "additional_link": "https://github.com/chainbase-labs"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "ChainHop",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/l6a-_qJL_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://app.chainhop.exchange/#/swap",
+        "discord_link": "https://discord.com/invite/Tgw4rvtYya",
+        "twitter_link": "https://twitter.com/ChainHopDEX",
+        "additional_link": "https://github.com/chainhop-dex/chainhop-contracts"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Chainlink",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/qvSHhRyC_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://chain.link/",
+        "discord_link": "https://discord.com/invite/aSK4zew",
+        "twitter_link": "https://twitter.com/chainlink",
+        "additional_link": "https://github.com/smartcontractkit/chainlink"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Chainstack",
+        "description": "",
+        "dao_category": [
+            "Node Providers"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/09/GvP_nYAe_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://chainstack.com/",
+        "discord_link": "https://discord.gg/Cymtg2f7pX",
+        "twitter_link": "https://twitter.com/ChainstackHQ",
+        "additional_link": "https://github.com/chainstack"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Channels Finance",
+        "description": "",
+        "dao_category": [
+            "Lending"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/09/channels-image.jpeg",
+        "dao_cover": "",
+        "website_link": "https://channels.finance/",
+        "discord_link": "https://discord.gg/VMNGuDzxnq",
+        "twitter_link": "https://twitter.com/ChannelsFinance",
+        "additional_link": "https://github.com/ChannelsFinance"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "CharmVerse",
+        "description": "",
+        "dao_category": [
+            "DAO Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/06/Bsm9UNai_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.charmverse.io/",
+        "discord_link": "https://discord.gg/ACYCzBGC2M",
+        "twitter_link": "https://twitter.com/CharmVerse",
+        "additional_link": "https://github.com/charmverse/app.charmverse.io"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "City Clash",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/fadBW1KP_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.cityclash.io/",
+        "discord_link": "https://discord.gg/XrXCKRQBRN",
+        "twitter_link": "https://twitter.com/cityclashNFT",
+        "additional_link": "https://github.com/normdoow/city-clash-website"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Coin98",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/EohgDtmJ_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://coin98.com/wallet",
+        "discord_link": "https://c98.link/discord",
+        "twitter_link": "https://twitter.com/coin98_wallet",
+        "additional_link": "https://github.com/coin98"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Coinbase Wallet",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/dQ_avj2m_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://wallet.coinbase.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/CoinbaseWallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Coinfeeds",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/06/YnffrUSQ_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://app.coinfeeds.io/coins/arbitrum",
+        "discord_link": "https://discord.gg/wD9yXSzXPf",
+        "twitter_link": "https://twitter.com/coinfeeds_ai",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Collab.Land",
+        "description": "",
+        "dao_category": [
+            "DAO Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/7Um6eOAJ_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://collab.land/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/Collab_Land_",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Commonwealth",
+        "description": "",
+        "dao_category": [
+            "DAO Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/06/KLaXWIKm_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://commonwealth.im/dashboard/for-you",
+        "discord_link": "https://discord.com/invite/t9XscHdZrG",
+        "twitter_link": "https://twitter.com/hicommonwealth",
+        "additional_link": "https://github.com/hicommonwealth"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Composable Finance",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/6qvnA0uq_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://mosaic.composable.finance/",
+        "discord_link": "https://discord.com/invite/pFZn2GCn65",
+        "twitter_link": "https://twitter.com/ComposableFin",
+        "additional_link": "https://github.com/composableFi"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Connext",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/ZSU1xz91_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://bridge.connext.network/",
+        "discord_link": "https://discord.com/invite/VcNFQdKuxM",
+        "twitter_link": "https://twitter.com/ConnextNetwork",
+        "additional_link": "https://github.com/connext"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Covalent",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/dvCtMxVg_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.covalenthq.com/docs/networks/arbitrum",
+        "discord_link": "https://discord.com/invite/fgZPpq69Dd",
+        "twitter_link": "https://twitter.com/covalent_hq",
+        "additional_link": "https://github.com/covalenthq"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Cream Finance",
+        "description": "",
+        "dao_category": [
+            "Lending"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/so8jjWOm_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://app.cream.finance/",
+        "discord_link": "https://discord.com/invite/8Ms25mV",
+        "twitter_link": "https://twitter.com/CreamdotFinance",
+        "additional_link": "https://github.com/CreamFi/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "CreDA",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/gZ4EgSXD_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www1.creda.app/home",
+        "discord_link": "https://discord.gg/creda",
+        "twitter_link": "https://twitter.com/CreDAfinance",
+        "additional_link": "https://github.com/CreDA-Protocol/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Crypto.com",
+        "description": "",
+        "dao_category": [
+            "Centralized Exchanges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/11/404-4048020_crypto-com-logo-svg-hd-png-download.png",
+        "dao_cover": "",
+        "website_link": "https://crypto.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/cryptocom",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "CryptoRefills",
+        "description": "",
+        "dao_category": [
+            "Fiat On-Ramp"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/NpCfgNkI_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.cryptorefills.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/CryptoRefills",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "CryptoTaxCalculator",
+        "description": "",
+        "dao_category": [
+            "Crypto Taxes"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/ctc.jpeg",
+        "dao_cover": "",
+        "website_link": "https://cryptotaxcalculator.io/en/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/CryptoTaxHQ",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "CUDL Finance",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/10/cudl.png",
+        "dao_cover": "",
+        "website_link": "https://cudl.finance",
+        "discord_link": "https://discord.gg/kfByfux",
+        "twitter_link": "https://twitter.com/cudlfinance",
+        "additional_link": "https://github.com/verynifty"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "CurateDAO",
+        "description": "",
+        "dao_category": [
+            "dApps"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/06/6L1LOoH4_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.kuratedao.xyz/",
+        "discord_link": "https://discord.gg/eW8UwQQgvQ",
+        "twitter_link": "https://twitter.com/curate_dao",
+        "additional_link": "https://github.com/curateDAO/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Curve",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/W1sQNVWo_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://arbitrum.curve.fi/",
+        "discord_link": "https://discord.com/invite/9uEHakc",
+        "twitter_link": "https://twitter.com/CurveFinance",
+        "additional_link": "https://github.com/curvefi"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "CVI",
+        "description": "",
+        "dao_category": [
+            "Options"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/zWlQEU0S_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://cvi.finance/staking",
+        "discord_link": "https://discord.gg/UvgtDyUb",
+        "twitter_link": "https://twitter.com/official_CVI",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "D\u2019CENT Wallet",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/11/dcent-logomark-full-colored-dcent-mint.png",
+        "dao_cover": "",
+        "website_link": "https://dcentwallet.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/DCENTwallets",
+        "additional_link": "https://github.com/DcentWallet"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "DAI",
+        "description": "",
+        "dao_category": [
+            "Stablecoins"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/dai.png",
+        "dao_cover": "",
+        "website_link": "https://makerdao.com/en/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/MakerDAO",
+        "additional_link": "https://github.com/makerdao"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "DAOhaus",
+        "description": "",
+        "dao_category": [
+            "DAO Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/10/haus__avatar-Ven-Gist.png",
+        "dao_cover": "",
+        "website_link": "https://daohaus.club/",
+        "discord_link": "https://discord.gg/daohaus",
+        "twitter_link": "https://twitter.com/nowdaoit",
+        "additional_link": "https://github.com/HausDAO/daohaus-app"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "DataHub",
+        "description": "",
+        "dao_category": [
+            "Node Providers"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/04/vhhp1wL4_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://datahub.figment.io/",
+        "discord_link": "https://discord.com/invite/fszyM7K",
+        "twitter_link": "https://twitter.com/Figment_io",
+        "additional_link": "https://github.com/figment-networks"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "DC8",
+        "description": "",
+        "dao_category": [
+            "NFT Marketplaces"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/PUrguHM_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://dc8.io/",
+        "discord_link": "https://discord.gg/fJsu6zDJWf",
+        "twitter_link": "https://twitter.com/DC8Platform",
+        "additional_link": "https://github.com/dceight"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "DeBank",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/YzVitob7_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://debank.com/",
+        "discord_link": "https://discord.com/invite/KYuj8DE",
+        "twitter_link": "https://twitter.com/DebankDeFi",
+        "additional_link": "https://github.com/DeBankDeFi"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "deBridge",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/Logo-Square-Full-Color-Black-Text.png",
+        "dao_cover": "",
+        "website_link": "https://debridge.finance",
+        "discord_link": "https://discord.gg/debridge",
+        "twitter_link": "https://twitter.com/deBridgeFinance",
+        "additional_link": "https://github.com/debridge-finance/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Defi Llama",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/09/LQwS_x0l_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://defillama.com/chain/Arbitrum",
+        "discord_link": "https://discord.gg/buPFYXzDDd",
+        "twitter_link": "https://twitter.com/DefiLlama",
+        "additional_link": "https://github.com/DefiLlama"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "DeFi Saver",
+        "description": "",
+        "dao_category": [
+            "Lending"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/06/i-eX2Wo7_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://defisaver.com/",
+        "discord_link": "https://discord.com/invite/XGDJHhZ",
+        "twitter_link": "https://twitter.com/DeFiSaver",
+        "additional_link": "https://github.com/defisaver"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "DefiEdge",
+        "description": "",
+        "dao_category": [
+            "Liquidity Management"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/07/IzjQ1Cbt_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://app.defiedge.io/",
+        "discord_link": "https://discord.gg/VjVtptAW",
+        "twitter_link": "https://twitter.com/DefiEdge",
+        "additional_link": "https://github.com/unbound-finance"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "DEFIYIELD",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/10/lVakzCLH_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://defiyield.app/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/defiyield_app",
+        "additional_link": "https://github.com/defiyeld-app/API"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "DeGate",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/zSx4RkLA_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://degate.com/",
+        "discord_link": "https://discord.com/invite/RFVDKGemJb",
+        "twitter_link": "https://twitter.com/DeGateDex",
+        "additional_link": "https://github.com/degatedev"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "DeKey",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/s7s9wJh_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://www.dekey.app/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/DekeyWallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "DePocket Finance",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/NWAZYh2o_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://depocket.com/",
+        "discord_link": "https://discord.gg/QXxvHH6CgY",
+        "twitter_link": "https://twitter.com/DePocketFinance",
+        "additional_link": "https://github.com/depocket"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Deri Protocol",
+        "description": "",
+        "dao_category": [
+            "Perpetuals"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/HH7KyDw6_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://deri.io",
+        "discord_link": "https://discord.gg/FEM9GMehHQ",
+        "twitter_link": "https://twitter.com/DeriProtocol",
+        "additional_link": "https://github.com/deri-protocol"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Dev Protocol",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/11/Avatar-w-01-Twitter-Mayumi-Hara.png",
+        "dao_cover": "",
+        "website_link": "https://devprotocol.xyz/",
+        "discord_link": "https://discord.gg/VwJp4KM",
+        "twitter_link": "https://twitter.com/devprtcl",
+        "additional_link": "https://github.com/dev-protocol"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "DeWork",
+        "description": "",
+        "dao_category": [
+            "DAO Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/yRb9aWtP_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://dework.xyz/",
+        "discord_link": "https://discord.com/invite/hcw7qRcRXb",
+        "twitter_link": "https://twitter.com/deworkxyz",
+        "additional_link": "https://github.com/deworkxyz/dework-frontend"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Dex Guru",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/01/symbol-5-Nick.png",
+        "dao_cover": "",
+        "website_link": "https://dex.guru/",
+        "discord_link": "https://discord.gg/dPW8fzwzz9",
+        "twitter_link": "https://twitter.com/dexguru",
+        "additional_link": "https://github.com/dex-guru/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "DEX Screener",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/07/5UYqudVs_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://dexscreener.com/arbitrum",
+        "discord_link": "https://discord.com/invite/ARbh55A472",
+        "twitter_link": "https://twitter.com/dexscreener",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Dexible",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/10/Dexible_logo.jpeg",
+        "dao_cover": "",
+        "website_link": "https://dexible.com",
+        "discord_link": "https://discord.gg/HMHJQ5Sa2S",
+        "twitter_link": "https://twitter.com/DexibleApp",
+        "additional_link": "https://github.com/BUIDLHub/dexible-contracts"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Dforce",
+        "description": "",
+        "dao_category": [
+            "Lending"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/OLzH5gNr_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://dforce.network/",
+        "discord_link": "https://discord.com/invite/c2PC8SM",
+        "twitter_link": "https://twitter.com/dForcenet",
+        "additional_link": "https://github.com/dforce-network"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "DIA",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/10/ZnwsXU9c_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.diadata.org/",
+        "discord_link": "https://discord.gg/zFmXtPFgQj",
+        "twitter_link": "https://twitter.com/DIAdata_org",
+        "additional_link": "https://github.com/diadata-org"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Diamond Pepes",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/6FxgzZ0u_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://app.dopex.io/nfts/diamondpepes",
+        "discord_link": "https://discord.gg/Dopex",
+        "twitter_link": "https://twitter.com/DiamondPepes",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "DoDo",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/41tgsq69_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://dodoex.io/",
+        "discord_link": "https://discord.com/invite/tyKReUK",
+        "twitter_link": "https://twitter.com/BreederDodo",
+        "additional_link": "https://github.com/DODOEX"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Dolomite",
+        "description": "",
+        "dao_category": [
+            "Lending"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/10/JEUHvtyP_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "http://dolomite.io",
+        "discord_link": "https://discord.gg/uDRzrB2YgP",
+        "twitter_link": "https://twitter.com/Dolomite_io",
+        "additional_link": "https://github.com/dolomite-exchange"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Dopex",
+        "description": "",
+        "dao_category": [
+            "Options"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/r7tnjax4_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://www.dopex.io/",
+        "discord_link": "https://discord.com/invite/dopex",
+        "twitter_link": "https://twitter.com/dopex_io",
+        "additional_link": "https://github.com/dopex-io"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Double Protocol",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/10/DoubleProtocol_logo.jpeg",
+        "dao_cover": "",
+        "website_link": "https://double.one/",
+        "discord_link": "https://discord.com/invite/F7DvqVDA4e",
+        "twitter_link": "https://twitter.com/DoubleProtocol",
+        "additional_link": "https://github.com/ethereum/EIPs/blob/master/EIPS/eip-4907.md"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "DroEats",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/09/bLlhh6zc_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://droeats.com/",
+        "discord_link": "https://discord.gg/mintersworld",
+        "twitter_link": "https://twitter.com/DroEats",
+        "additional_link": "https://github.com/grzyslaw/BasicStakingDroEats"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Dune",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/07/RMWlZ_aT_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://dune.com/browse/dashboards?q=Arbitrum&order=created_at",
+        "discord_link": "https://discord.com/invite/ErrzwBz",
+        "twitter_link": "https://twitter.com/DuneAnalytics",
+        "additional_link": "https://github.com/duneanalytics"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Elk Finance",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/ltcWLpfU_400x400-1.jpg",
+        "dao_cover": "",
+        "website_link": "https://elk.finance",
+        "discord_link": "https://discord.gg/4PzNmq9Uxg",
+        "twitter_link": "https://twitter.com/elk_finance",
+        "additional_link": "https://github.com/elkfinance"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Etherscan",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/6mDtyT6V_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://arbiscan.io/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/etherscan",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Etherspot",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/tCYkH1y5_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://etherspot.io/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/etherspot",
+        "additional_link": "https://github.com/etherspot/etherspot-sdk"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Everipedia",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/nResATsF_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://everipedia.org/",
+        "discord_link": "https://discord.com/invite/ZebRYEk7",
+        "twitter_link": "https://twitter.com/everipedia",
+        "additional_link": "https://github.com/EveripediaNetwork/Everipedia"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Farmland",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/farmland.png",
+        "dao_cover": "",
+        "website_link": "https://farmland-game.github.io/",
+        "discord_link": "https://discord.com/invite/b3WacYQNwa",
+        "twitter_link": "https://twitter.com/FarmlandGame",
+        "additional_link": "https://github.com/farmland-game"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "FluidFi",
+        "description": "",
+        "dao_category": [
+            "Fiat On-Ramp"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/aZUvXpeh_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://fluid.ch/",
+        "discord_link": "https://discord.com/invite/xbu3qhrxps",
+        "twitter_link": "https://twitter.com/fluid_fi",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Flux Protocol",
+        "description": "",
+        "dao_category": [
+            "Lending"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/09/fluxLogo-ysqi.png",
+        "dao_cover": "",
+        "website_link": "https://flux.01.finance/markets",
+        "discord_link": "https://discord.com/invite/ZKgxNhdWrD",
+        "twitter_link": "https://twitter.com/zero1_flux",
+        "additional_link": "https://github.com/01-finance/flux"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Forta",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/07/xvGLsTjU_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://forta.org/",
+        "discord_link": "https://discord.com/invite/KACdTEutQq",
+        "twitter_link": "https://twitter.com/FortaNetwork",
+        "additional_link": "https://github.com/forta-network"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "FoxWallet",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/03/A2hj77az_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://foxwallet.com/en",
+        "discord_link": "https://discord.com/invite/JVjVbe3Zth",
+        "twitter_link": "https://twitter.com/FoxWallet",
+        "additional_link": "github.com/foxwallet"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Frax",
+        "description": "",
+        "dao_category": [
+            "Stablecoins"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/01/frax.jpeg",
+        "dao_cover": "",
+        "website_link": "https://app.frax.finance/",
+        "discord_link": "https://discord.gg/EvY6MMKgmA",
+        "twitter_link": "https://twitter.com/fraxfinance",
+        "additional_link": "https://github.com/fraxfinance/frax-solidity"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "FTX",
+        "description": "",
+        "dao_category": [
+            "Centralized Exchanges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/7_HigzNT_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://ftx.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/FTX_Official",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Futureswap",
+        "description": "",
+        "dao_category": [
+            "Perpetuals"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/jVrYaCuN_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.futureswap.com/",
+        "discord_link": "https://discord.com/invite/gRtqvfqW4V",
+        "twitter_link": "https://twitter.com/futureswapx",
+        "additional_link": "https://github.com/futureswap"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Galxe",
+        "description": "",
+        "dao_category": [
+            "Growth"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/09/KfwokkZe_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://galxe.com/",
+        "discord_link": "https://gal.xyz/discord",
+        "twitter_link": "https://twitter.com/GalxeHQ",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Gelato Network",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/06/gelato_icon__small_icon_portal.arbitrum_.png",
+        "dao_cover": "",
+        "website_link": "https://app.gelato.network/",
+        "discord_link": "https://discord.com/invite/ApbA39BKyJ",
+        "twitter_link": "https://twitter.com/gelatonetwork",
+        "additional_link": "https://github.com/gelatodigital/ops"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "GetBlock",
+        "description": "",
+        "dao_category": [
+            "Node Providers"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/03/Aem50sPu_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://getblock.io/",
+        "discord_link": "https://discord.com/invite/T2hbgqfEnv",
+        "twitter_link": "https://twitter.com/getblockio",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "GMX",
+        "description": "",
+        "dao_category": [
+            "Perpetuals"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/7Dg7tx__400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://gmx.financial/",
+        "discord_link": "https://discord.com/invite/cxjZYR4gQK",
+        "twitter_link": "https://twitter.com/GMX_IO",
+        "additional_link": "https://github.com/xvi10"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "GMX Blueberry Club",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/R7q6zuQi_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.blueberry.club/",
+        "discord_link": "https://discord.com/invite/7ZMmeU3z9j",
+        "twitter_link": "https://twitter.com/GBlueberryClub",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Gnosis Safe",
+        "description": "",
+        "dao_category": [
+            "DAO Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/5unhdQbm_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://arbitrum.gnosis-safe.io/app/",
+        "discord_link": "https://discord.com/invite/FPMRAwK",
+        "twitter_link": "https://twitter.com/gnosisSafe",
+        "additional_link": "https://github.com/gnosis?utf8=%E2%9C%93&q=safe"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Go Pocket",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/eCnvnVuO_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://gopocket.finance/",
+        "discord_link": "https://discord.com/invite/EHTVmPkMcP",
+        "twitter_link": "https://twitter.com/GO__Pocket",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Go+ Security",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/06/ID6SkVRp_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://gopluslabs.io/",
+        "discord_link": "https://discord.gg/5cvSsaT8N5",
+        "twitter_link": "https://twitter.com/GoplusSecurity",
+        "additional_link": "https://github.com/GoPlusLabs"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Government Toucans",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/14229.webp",
+        "dao_cover": "",
+        "website_link": "https://shellprotocol.io/",
+        "discord_link": "https://discord.com/invite/S5EU5zmqxP",
+        "twitter_link": "https://twitter.com/ShellProtocol",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Guild",
+        "description": "",
+        "dao_category": [
+            "DAO Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/L8tmHbzm_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://guild.xyz/",
+        "discord_link": "https://discord.gg/guildxyz",
+        "twitter_link": "https://twitter.com/guildxyz",
+        "additional_link": "https://github.com/agoraxyz/guild.xyz"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "HaloDAO",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/HupW1Dmw_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://app.halodao.com/#/swap",
+        "discord_link": "https://discord.com/invite/frY97mxD5j",
+        "twitter_link": "https://twitter.com/HaloDAOFinance",
+        "additional_link": "https://github.com/halodao"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Handle.fi",
+        "description": "",
+        "dao_category": [
+            "Stablecoins"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/1gAtgSwz_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://app.handle.fi",
+        "discord_link": "https://discord.com/invite/77WDThbZJ4",
+        "twitter_link": "https://twitter.com/handle_fi",
+        "additional_link": "https://github.com/handle-fi"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Harvest Powered by Dolomite",
+        "description": "",
+        "dao_category": [
+            "Yield Optimization"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/JEUHvtyP_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://harvest.dolomite.io/",
+        "discord_link": "https://discord.com/xVgUCerGzk",
+        "twitter_link": "https://twitter.com/Dolomite_io",
+        "additional_link": "https://github.com/dolomite-exchange/harvest-strategy-arbitrum"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "hashflow",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/hashflow.jpeg",
+        "dao_cover": "",
+        "website_link": "https://www.hashflow.com/",
+        "discord_link": "discord.gg/hashflow",
+        "twitter_link": "https://twitter.com/hashflownetwork",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Hop Protocol",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/BVcNR51u_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://app.hop.exchange/",
+        "discord_link": "https://discord.com/invite/PwCF88emV4",
+        "twitter_link": "https://twitter.com/HopProtocol",
+        "additional_link": "https://github.com/hop-protocol"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Hundred Finance",
+        "description": "",
+        "dao_category": [
+            "Lending"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/10/Hundred_logo-01-01-Ivan-M.png",
+        "dao_cover": "",
+        "website_link": "https://hundred.finance/",
+        "discord_link": "https://discord.com/invite/kvWc4Qz6CU",
+        "twitter_link": "https://twitter.com/HundredFinance",
+        "additional_link": "https://github.com/hundred-finance"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Huobi Global",
+        "description": "",
+        "dao_category": [
+            "Centralized Exchanges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/09/huobi.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.huobi.com/",
+        "discord_link": "https://discord.com/invite/xrAq7Fv7Xx",
+        "twitter_link": "https://twitter.com/HuobiGlobal",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Huobi Wallet",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/09/huobi.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.huobiwallet.io/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/HuobiWallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Ideamarket",
+        "description": "",
+        "dao_category": [
+            "dApps"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/jesWP7_d_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://ideamarket.io/",
+        "discord_link": "https://discord.com/invite/zaXZXGE4Ke",
+        "twitter_link": "https://twitter.com/ideamarket_io",
+        "additional_link": "https://github.com/Ideamarket"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Impermax Finance",
+        "description": "",
+        "dao_category": [
+            "Lending"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/10/avXYDHNr_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://arbitrum.impermax.finance/",
+        "discord_link": "https://discord.com/invite/XN739EgG4X",
+        "twitter_link": "https://twitter.com/ImpermaxFinance",
+        "additional_link": "https://github.com/Impermax-Finance"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "ImToken",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/bs6qKtaX_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://token.im/",
+        "discord_link": "https://discord.com/invite/imToken",
+        "twitter_link": "https://twitter.com/imTokenOfficial",
+        "additional_link": "https://github.com/consenlabs"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Infura",
+        "description": "",
+        "dao_category": [
+            "Node Providers"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/yo6M6Y9u_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://infura.io/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/infura_io",
+        "additional_link": "https://github.com/INFURA"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Instadapp",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/09/logo_sign-Steven-Zapata.png",
+        "dao_cover": "",
+        "website_link": "https://instadapp.io/",
+        "discord_link": "https://discord.gg/C76CeZc",
+        "twitter_link": "https://twitter.com/Instadapp",
+        "additional_link": "https://github.com/Instadapp"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "iZUMi Finance",
+        "description": "",
+        "dao_category": [
+            "Liquidity Management"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/03/htKydniT_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://izumi.finance/home",
+        "discord_link": "https://discord.com/invite/vUFpSwxTzz",
+        "twitter_link": "https://twitter.com/izumi_Finance",
+        "additional_link": "https://github.com/IzumiFinance/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Jones DAO",
+        "description": "",
+        "dao_category": [
+            "Options"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/jonesDAO.jpeg",
+        "dao_cover": "",
+        "website_link": "https://jonesdao.io/vaults",
+        "discord_link": "https://discord.com/invite/jonesdao",
+        "twitter_link": "https://twitter.com/DAOJonesOptions",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Juno",
+        "description": "",
+        "dao_category": [
+            "Centralized Exchanges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/07/47OOTPir_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://juno.finance/",
+        "discord_link": "https://discord.com/invite/junofinance",
+        "twitter_link": "https://twitter.com/JunoFinanceHQ",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Kaki",
+        "description": "",
+        "dao_category": [
+            "Options"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/4-ZWbT_I_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.kakifi.com/",
+        "discord_link": "https://discord.com/invite/FMrjZrdZds",
+        "twitter_link": "https://twitter.com/kakioptions",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "KeyFi",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/White-2000x2000-Vincent-Le.png",
+        "dao_cover": "",
+        "website_link": "https://keyfi.com/",
+        "discord_link": "https://discord.gg/F8uruMRYYr",
+        "twitter_link": "https://twitter.com/KeyFi_app",
+        "additional_link": "https://github.com/KEYFIAI/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Koinly",
+        "description": "",
+        "dao_category": [
+            "Crypto Taxes"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/koinly2.png",
+        "dao_cover": "",
+        "website_link": "https://koinly.io/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/koinly",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Kromatika.Finance",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/kromat.jpeg",
+        "dao_cover": "",
+        "website_link": "https://kromatika.finance/",
+        "discord_link": "https://discord.com/invite/5Yd7PrRx9y",
+        "twitter_link": "https://twitter.com/KromatikaFi",
+        "additional_link": "https://github.com/Kromatika-Finance/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "KryptoGO Wallet",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/07/Arp_jZNT_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://kryptogo.com/wallet",
+        "discord_link": "https://discord.gg/kryptogo",
+        "twitter_link": "https://twitter.com/kryptogo_",
+        "additional_link": "https://github.com/kryptogo"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Krystal",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/IrW7CHUX_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://krystal.app/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/KrystalDefi",
+        "additional_link": "https://github.com/KYRDTeam"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Kucoin",
+        "description": "",
+        "dao_category": [
+            "Centralized Exchanges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/04/q56IIHA_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.kucoin.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/kucoincom",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "KyberSwap",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/03/logomark-Tram-Trinh.png",
+        "dao_cover": "",
+        "website_link": "https://kyberswap.com/#/",
+        "discord_link": "https://discord.com/invite/NB3vc8J9uv",
+        "twitter_link": "https://twitter.com/KyberNetwork",
+        "additional_link": "https://github.com/KyberNetwork"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Laika",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/07/tFOiZAQ4_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://getlaika.app/",
+        "discord_link": "https://discord.com/invite/eFvbrpsYf7",
+        "twitter_link": "https://twitter.com/getlaikaapp",
+        "additional_link": "https://github.com/laika-lab"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Layer2DAO",
+        "description": "",
+        "dao_category": [
+            "DAO"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/10/CNtKHXGT_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://layer2dao.org",
+        "discord_link": "https://discord.gg/layer2dao",
+        "twitter_link": "https://twitter.com/TheLayer2DAO",
+        "additional_link": "https://github.com/Layer2DAO"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Layer3",
+        "description": "",
+        "dao_category": [
+            "Growth"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/09/pUMM13HP_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://beta.layer3.xyz/",
+        "discord_link": "https://discord.com/invite/bzktXw3gEY",
+        "twitter_link": "https://twitter.com/layer3xyz",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Li.Fi",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/lifi.png",
+        "dao_cover": "",
+        "website_link": "https://li.finance/?fromChain=arb",
+        "discord_link": "https://discord.com/invite/lifi",
+        "twitter_link": "https://twitter.com/lifiprotocol",
+        "additional_link": "https://github.com/lifinance"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Liquality",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/CRkEBdee_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://liquality.io/index.html",
+        "discord_link": "https://discord.com/invite/72XmNjkUya",
+        "twitter_link": "https://twitter.com/Liquality_io",
+        "additional_link": "https://github.com/liquality"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Lootex",
+        "description": "",
+        "dao_category": [
+            "NFT Marketplaces"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/UTr1dr8R_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://lootex.io/",
+        "discord_link": "https://discord.com/invite/lootexio",
+        "twitter_link": "https://twitter.com/LootexIO",
+        "additional_link": "https://github.com/lootex-io/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Magna",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/09/1500x500-22.jpg",
+        "dao_cover": "",
+        "website_link": "https://magna.so",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/MagnaTokens",
+        "additional_link": "https://github.com/magna-eng"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Marlin Protocol",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/marlin.jpeg",
+        "dao_cover": "",
+        "website_link": "http://marlin.org/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/MarlinProtocol",
+        "additional_link": "https://github.com/marlinprotocol"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Mask",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/XXZb3DYl_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://mask.io/",
+        "discord_link": "https://discord.com/invite/4SVXvj7",
+        "twitter_link": "https://twitter.com/realmaskbook",
+        "additional_link": "https://github.com/DimensionDev"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "MathWallet",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/KNzBzHi8_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://mathwallet.org/en-us/",
+        "discord_link": "https://discord.com/invite/gXSfnk5eP5",
+        "twitter_link": "https://twitter.com/MathWallet",
+        "additional_link": "https://github.com/mathwallet"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "MCDEX",
+        "description": "",
+        "dao_category": [
+            "Perpetuals"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/09/mcdex-logo.jpeg",
+        "dao_cover": "",
+        "website_link": "https://app.mcdex.io/trade/00001/",
+        "discord_link": "https://discord.com/invite/uut3V3D",
+        "twitter_link": "https://twitter.com/MonteCarloDEX",
+        "additional_link": "https://github.com/mcdexio"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Meo Finance",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/10/Meo_logo.png",
+        "dao_cover": "",
+        "website_link": "https://meo.finance",
+        "discord_link": "https://discord.gg/KpZUJn4B2S",
+        "twitter_link": "https://twitter.com/MeoFinance",
+        "additional_link": "https://github.com/meofinance"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Meson",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/okULTyez_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://meson.fi",
+        "discord_link": "https://discord.gg/meson",
+        "twitter_link": "https://twitter.com/mesonfi",
+        "additional_link": "https://github.com/MesonFi"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "MetaMask",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/B-7umJNL_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://metamask.io/",
+        "discord_link": "https://discord.com/invite/jgxfJkp",
+        "twitter_link": "https://twitter.com/MetaMask",
+        "additional_link": "https://github.com/MetaMask/metamask-extension"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "MEXC EXCHANGE",
+        "description": "",
+        "dao_category": [
+            "Centralized Exchanges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/mexc-y-linx.png",
+        "dao_cover": "",
+        "website_link": "https://www.mexc.com/",
+        "discord_link": "https://discord.com/invite/EgagWrwjmB",
+        "twitter_link": "https://twitter.com/MEXC_Global",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Minimax Finance",
+        "description": "",
+        "dao_category": [
+            "Yield Optimization"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/rZHxgKHv_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://app.minimax.finance/vaults?blockchains=42161",
+        "discord_link": "https://discord.com/invite/A6GJ6Qktwm",
+        "twitter_link": "https://twitter.com/MinimaxFinance",
+        "additional_link": "https://github.com/minimaxdefi"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Mint Your EGG",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/HXHqRYw3_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://mintyouregg.com/",
+        "discord_link": "https://discord.gg/ZhPXNSBh29",
+        "twitter_link": "https://twitter.com/mintyouregg",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Mithical",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/OOy3JUCq_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.mithical.io/",
+        "discord_link": "https://discord.gg/XNjjDsVTqT",
+        "twitter_link": "https://twitter.com/Mithical_io",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Moralis",
+        "description": "",
+        "dao_category": [
+            "Node Providers"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/wUtq90CU_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://moralis.io/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/MoralisWeb3",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Mover",
+        "description": "",
+        "dao_category": [
+            "Payments"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/07/fSEsdKBZ_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://viamover.com",
+        "discord_link": "https://discord.gg/mover",
+        "twitter_link": "https://twitter.com/viamover",
+        "additional_link": "https://github.com/viamover"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Mt Pelerin",
+        "description": "",
+        "dao_category": [
+            "Fiat On-Ramp"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/01/mt.png",
+        "dao_cover": "",
+        "website_link": "https://www.mtpelerin.com/on-off-ramp",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/mtpelerin",
+        "additional_link": "https://github.com/MtPelerin"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Multichain",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/EgXhZHRJ_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://app.multichain.org/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/MultichainOrg",
+        "additional_link": "https://github.com/anyswap"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Multis",
+        "description": "",
+        "dao_category": [
+            "DAO Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/03/multis-black-background-Samantha-Fields.jpg",
+        "dao_cover": "",
+        "website_link": "https://multis.co/",
+        "discord_link": "https://discord.gg/X326nSzUS7",
+        "twitter_link": "https://twitter.com/multisHQ",
+        "additional_link": "https://github.com/multis"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Multisender",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/10/dCrE46T5_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://multisender.app/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/NFT_Multisender",
+        "additional_link": "https://github.com/rstormsf/multisender"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Mycelium",
+        "description": "",
+        "dao_category": [
+            "Perpetuals"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/yPZnFXGB_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://tracer.finance/",
+        "discord_link": "https://discord.com/invite/PYVs8rVPMd",
+        "twitter_link": "https://twitter.com/mycelium_xyz",
+        "additional_link": "https://github.com/tracer-protocol"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Nabox",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/IS494uEO_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://nabox.io/",
+        "discord_link": "https://discord.com/invite/mQVXZJXMkn",
+        "twitter_link": "https://twitter.com/naboxwallet",
+        "additional_link": "https://github.com/naboxwallet"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Nansen",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/p80VWz0-_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.nansen.ai/",
+        "discord_link": "https://discord.com/invite/4MC6wXT",
+        "twitter_link": "https://twitter.com/nansen_ai",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Nansen Portfolio",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/SBC0WX5Z_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://portfolio.nansen.ai",
+        "discord_link": "https://nansen.ai/discord",
+        "twitter_link": "https://twitter.com/nansenportfolio",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "NerveNetwork",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/03/Logo-black2-Network-Nerve.png",
+        "dao_cover": "",
+        "website_link": "https://nerve.network/",
+        "discord_link": "https://discord.com/invite/PBkHeD7",
+        "twitter_link": "https://twitter.com/nerve_network",
+        "additional_link": "https://github.com/NerveNetwork"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Nested",
+        "description": "",
+        "dao_category": [
+            "dApps"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/10/Nested_logo.jpeg",
+        "dao_cover": "",
+        "website_link": "https://nested.fi",
+        "discord_link": "https://discord.gg/VW8ZZsACzd",
+        "twitter_link": "https://twitter.com/NestedFi",
+        "additional_link": "https://github.com/NestedFi/nested-core-lego"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "nftperp",
+        "description": "",
+        "dao_category": [
+            "Perpetuals"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/10/ZDhTn3QL_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://nftperp.xyz/",
+        "discord_link": "https://discord.gg/m8DGMgfhMg",
+        "twitter_link": "https://twitter.com/nftperp",
+        "additional_link": "https://github.com/nftperp"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "NFTScan",
+        "description": "",
+        "dao_category": [
+            "NFT Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/06/2bMJNG-x_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://arbitrum.nftscan.com/",
+        "discord_link": "https://discord.gg/8c87fS2HHF",
+        "twitter_link": "https://twitter.com/nftscan_com",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "NOWnodes",
+        "description": "",
+        "dao_category": [
+            "Node Providers"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/2aHY5nVJ_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://nownodes.io/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/NOWNodes",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "O3 Swap",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/10/rNL0ZbeP_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://o3swap.com/swap",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/O3_Labs",
+        "additional_link": "https://github.com/O3Labs"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "O3 Wallet",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/10/image_2021-10-22_16-06-21-Laurel-Lou.png",
+        "dao_cover": "",
+        "website_link": "https://o3.network/",
+        "discord_link": "https://discord.gg/adA7uRGQ2R",
+        "twitter_link": "https://twitter.com/O3_Labs",
+        "additional_link": "https://github.com/O3Labs"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Odos",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/twy-BHWj_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.odos.xyz/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/odosprotocol",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "OKX",
+        "description": "",
+        "dao_category": [
+            "Centralized Exchanges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/okx.png",
+        "dao_cover": "",
+        "website_link": "https://www.okx.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/OKEx",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Olympus Pro",
+        "description": "",
+        "dao_category": [
+            "Liquidity Management"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/12/0HE8Ngon_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://pro.olympusdao.finance/#/bond",
+        "discord_link": "https://discord.com/invite/olympusdao",
+        "twitter_link": "https://twitter.com/OlympusDAO",
+        "additional_link": "https://github.com/OlympusDAO"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "ONTO Web Wallet",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/09/ONTO.jpg",
+        "dao_cover": "",
+        "website_link": "https://onto.app/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/ONTOWallet",
+        "additional_link": "https://github.com/ONTO-Data-Wallet"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Ooki Protocol",
+        "description": "",
+        "dao_category": [
+            "Lending"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/EAHrIE0J_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://ooki.com/",
+        "discord_link": "https://discord.gg/A7tZJ3nZ",
+        "twitter_link": "https://twitter.com/ookitrade",
+        "additional_link": "https://github.com/OokiTrade/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "OpenOcean",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/12/ORG-Mathias-Leach-Glintborg.jpg",
+        "dao_cover": "",
+        "website_link": "https://openocean.finance/",
+        "discord_link": "https://discord.gg/cxK6CCYcGp",
+        "twitter_link": "https://twitter.com/OpenOceanGlobal",
+        "additional_link": "https://github.com/openocean-finance/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "OpenSea",
+        "description": "",
+        "dao_category": [
+            "NFT Marketplaces"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/09/ZuvjfGkT_400x400-1.png",
+        "dao_cover": "",
+        "website_link": "https://opensea.io/",
+        "discord_link": "https://discord.com/invite/arbitrum",
+        "twitter_link": "https://twitter.com/arbitrum",
+        "additional_link": "https://github.com/ProjectOpenSea"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Paraswap",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/07/HBwNkCAz_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://app.paraswap.io/#/?network=arbitrum",
+        "discord_link": "https://discord.com/invite/wYePFfR",
+        "twitter_link": "https://twitter.com/paraswap",
+        "additional_link": "https://github.com/paraswap"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Parsec",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/ODpD974X_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://parsec.finance/",
+        "discord_link": "https://discord.com/invite/U5hhnra",
+        "twitter_link": "https://twitter.com/parsec_finance",
+        "additional_link": "https://github.com/parsec-finance"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Pickle Finance",
+        "description": "",
+        "dao_category": [
+            "Yield Optimization"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/10/picklelogo.jpeg",
+        "dao_cover": "",
+        "website_link": "https://www.pickle.finance/",
+        "discord_link": "https://discord.com/invite/pickle-finance",
+        "twitter_link": "https://twitter.com/picklefinance",
+        "additional_link": "https://github.com/pickle-finance"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Pinata",
+        "description": "",
+        "dao_category": [
+            "NFT Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/HlDTM6tf_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://www.pinata.cloud",
+        "discord_link": "https://discord.gg/9nSG5kMw",
+        "twitter_link": "https://twitter.com/pinatacloud",
+        "additional_link": "https://github.com/PinataCloud"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Plenny",
+        "description": "",
+        "dao_category": [
+            "dApps"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/ydtNIsaH_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://dplenny.on.fleek.co/#/login",
+        "discord_link": "https://discord.com/invite/RdpMA9qETD",
+        "twitter_link": "https://twitter.com/PlennyPL2",
+        "additional_link": "https://github.com/PlennyPL2"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "PlutusDAO",
+        "description": "",
+        "dao_category": [
+            "Yield Optimization"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/M6nUndNU_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://plutusdao.io/",
+        "discord_link": "https://discord.gg/T2ZYVVaB",
+        "twitter_link": "https://twitter.com/PlutusDAO_io",
+        "additional_link": "https://github.com/PlutusDAO"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "pNetwork",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/01/Artboard-1-Szabo-Zoltan-Antal.png",
+        "dao_cover": "",
+        "website_link": "https://p.network/",
+        "discord_link": "https://discord.gg/8F6XUdPHqg",
+        "twitter_link": "https://twitter.com/pNetworkDeFi",
+        "additional_link": "https://github.com/provable-things"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Pods Finance",
+        "description": "",
+        "dao_category": [
+            "Options"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/12/LueMarzM_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://app.pods.finance/",
+        "discord_link": "https://discord.com/invite/Qf7utym",
+        "twitter_link": "https://twitter.com/PodsFinance",
+        "additional_link": "https://github.com/pods-finance"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Poly Network",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/10/Polynetwork_VF_icon-logo-Yiting-Elisa-XU.png",
+        "dao_cover": "",
+        "website_link": "https://poly.network",
+        "discord_link": "https://discord.com/invite/y6MuEnq",
+        "twitter_link": "https://twitter.com/PolyNetwork2",
+        "additional_link": "https://github.com/polynetwork"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Predy Finance",
+        "description": "",
+        "dao_category": [
+            "Perpetuals"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/b2G1VOyb_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.predy.finance/",
+        "discord_link": "https://discord.gg/predy",
+        "twitter_link": "https://twitter.com/predyfinance",
+        "additional_link": "https://github.com/predyprotocol"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Premia",
+        "description": "",
+        "dao_category": [
+            "Options"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/12/premia1.jpeg",
+        "dao_cover": "",
+        "website_link": "https://app.premia.finance/",
+        "discord_link": "https://discord.gg/premia/",
+        "twitter_link": "https://twitter.com/premiafinance/",
+        "additional_link": "https://github.com/Premia-Labs/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "QuickNode",
+        "description": "",
+        "dao_category": [
+            "Node Providers"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/12/qzz95hUu_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.quicknode.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/QuickNode",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Rabby Wallet",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/Grz0B2t2_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://rabby.io",
+        "discord_link": "https://discord.gg/seFBCWmUre",
+        "twitter_link": "https://twitter.com/Rabby_io",
+        "additional_link": "https://github.com/RabbyHub/Rabby"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Radiant Capital",
+        "description": "",
+        "dao_category": [
+            "Lending"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/07/PxCTSGfa_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://radiant.capital/",
+        "discord_link": "https://discord.com/invite/2vJ5pGXkEs",
+        "twitter_link": "https://twitter.com/RDNTCapital",
+        "additional_link": "https://github.com/radiant-capital/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Raiden",
+        "description": "",
+        "dao_category": [
+            "Payments"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/kibMiHil_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://lightclient.raiden.network/#/",
+        "discord_link": "https://discord.gg/nSQDQBq5FC",
+        "twitter_link": "https://twitter.com/raiden_network",
+        "additional_link": "https://github.com/raiden-network/raiden-contracts/blob/master/CHANGELOG.md"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Rainbow",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/10/lC-xrjES_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://rainbow.me/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/rainbowdotme",
+        "additional_link": "https://github.com/rainbow-me/rainbow"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Ramp Network",
+        "description": "",
+        "dao_category": [
+            "Fiat On-Ramp"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/2iU0-aH9_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://ramp.network/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/RampNetwork",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Random Walk",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/YJs0rBEk_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.randomwalknft.com/",
+        "discord_link": "https://discord.gg/bGnPn96Qwt",
+        "twitter_link": "https://twitter.com/RandomWalkNFT",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Rango",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/rangoxchange.jpeg",
+        "dao_cover": "",
+        "website_link": "https://app.rango.exchange/swap/ARBITRUM.ETH/ETH.ETH",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/RangoExchange",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Rari Capital",
+        "description": "",
+        "dao_category": [
+            "Lending"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/01/rari.jpeg",
+        "dao_cover": "",
+        "website_link": "https://app.rari.capital/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/RariCapital",
+        "additional_link": "https://github.com/rari-capital"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Realm",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/DeCc7A9U_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.rlm.land/",
+        "discord_link": "https://discord.gg/realmdao",
+        "twitter_link": "https://twitter.com/RealmDao",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Relay Chain",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/10/relay_chain_logo.jpeg",
+        "dao_cover": "",
+        "website_link": "http://www.relaychain.com",
+        "discord_link": "https://discord.gg/DgHDesQdBv",
+        "twitter_link": "https://twitter.com/relay_chain",
+        "additional_link": "https://github.com/RelayChain"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "RenBridge",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/CRYvXTVv_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://bridge.renproject.io/mint",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/renprotocol",
+        "additional_link": "https://github.com/renproject"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Reputation DAO",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/rep-1.jpeg",
+        "dao_cover": "",
+        "website_link": "https://reputation.link/?network=Arbitrum",
+        "discord_link": "https://discord.gg/8qBmuud",
+        "twitter_link": "https://twitter.com/ReputationDAO",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Revert",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/09/fjCCya7g_400x400-1.png",
+        "dao_cover": "",
+        "website_link": "https://revert.finance/",
+        "discord_link": "https://discord.gg/GjMq5UMy",
+        "twitter_link": "https://twitter.com/revertfinance",
+        "additional_link": "https://github.com/revert-finance"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "rhino.fi",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/CGZ2hcu3_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://rhino.fi/",
+        "discord_link": "https://discord.gg/FHcvMKnN",
+        "twitter_link": "https://twitter.com/rhinofi",
+        "additional_link": "https://github.com/rhinofi"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Rice Wallet",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/06/Ln7W9F1h_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://ricewallet.io/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/RiceDeFiWallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Rise",
+        "description": "",
+        "dao_category": [
+            "Payments"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/03/RkBfY6Za_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.riseworks.io/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/rise_pay",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Risedle",
+        "description": "",
+        "dao_category": [
+            "Perpetuals"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/Totem-Risedle-Bayu-Aldiyansyah.png",
+        "dao_cover": "",
+        "website_link": "https://risedle.com",
+        "discord_link": "https://discord.gg/risedle",
+        "twitter_link": "https://twitter.com/risedle",
+        "additional_link": "https://github.com/risedle"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Risk Harbor",
+        "description": "",
+        "dao_category": [
+            "dApps"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/Ycu9Y0WA_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://core.riskharbor.com/buy-protection",
+        "discord_link": "discord.gg/7aAC4p6vsr",
+        "twitter_link": "https://twitter.com/riskharbor",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Router Protocol",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/bqH1VBiG_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://app.routerprotocol.com/swap",
+        "discord_link": "https://discord.com/invite/yjM2fUUHvN",
+        "twitter_link": "https://twitter.com/routerprotocol",
+        "additional_link": "https://github.com/router-protocol"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Rubic",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/logo_gn_02-Andrey-Aksenov.png",
+        "dao_cover": "",
+        "website_link": "https://rubic.exchange/",
+        "discord_link": "https://discord.gg/hayrHU2Tvh",
+        "twitter_link": "https://twitter.com/CryptoRubic",
+        "additional_link": "https://github.com/Cryptorubic"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Sablier",
+        "description": "",
+        "dao_category": [
+            "Payments"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/03/nlJtmWT1_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://pay.sablier.finance/",
+        "discord_link": "https://discord.gg/bSwRCwWRsT",
+        "twitter_link": "https://twitter.com/sablierhq",
+        "additional_link": "https://github.com/sablierhq"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Saddle Finance",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/11/Saddle_logomark_white.png",
+        "dao_cover": "",
+        "website_link": "https://saddle.finance/",
+        "discord_link": "https://discord.com/invite/saddle",
+        "twitter_link": "https://twitter.com/saddlefinance",
+        "additional_link": "https://github.com/saddle-finance"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Sentiment",
+        "description": "",
+        "dao_category": [
+            "Lending"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/10/M9YvTNZj_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.sentiment.xyz/",
+        "discord_link": "https://discord.gg/sentimentxyz",
+        "twitter_link": "https://twitter.com/sentimentxyz",
+        "additional_link": "https://github.com/sentimentxyz"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Sequence",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/SequenceIconFull.png",
+        "dao_cover": "",
+        "website_link": "https://sequence.build/",
+        "discord_link": "https://discord.com/invite/ZsRkaZs",
+        "twitter_link": "https://twitter.com/0xsequence",
+        "additional_link": "https://github.com/0xsequence"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Simplex",
+        "description": "",
+        "dao_category": [
+            "Fiat On-Ramp"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/85g3O4A-_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "http://arbitrum.buy-crypto-with-simplex.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/SimplexCC",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Slingshot",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/11/1aF-EJjF_400x400-Cathy-Li.jpeg",
+        "dao_cover": "",
+        "website_link": "https://app.slingshot.finance/",
+        "discord_link": "https://discord.gg/MpDxFBKRxB",
+        "twitter_link": "https://twitter.com/SlingshotCrypto",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "SmithyDAO",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/ALfrFMg9_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://smithydao.lol/",
+        "discord_link": "https://discord.gg/smithydao",
+        "twitter_link": "https://twitter.com/SmithyDAO",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Smol Bodies",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/Eaav1OVA_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.smolverse.lol/",
+        "discord_link": "https://discord.gg/PphtDErWvs",
+        "twitter_link": "https://twitter.com/SmolBodies",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Smol Brains",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/image.png",
+        "dao_cover": "",
+        "website_link": "https://www.smolverse.lol/",
+        "discord_link": "https://discord.gg/smolbrains",
+        "twitter_link": "https://twitter.com/SmolBrainsNFT",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Smolpad",
+        "description": "",
+        "dao_category": [
+            "Directories"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/unknown-3.png",
+        "dao_cover": "",
+        "website_link": "https://www.smolpad.lol/",
+        "discord_link": "https://discord.gg/smolpad",
+        "twitter_link": "https://twitter.com/smolpad",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Snapshot",
+        "description": "",
+        "dao_category": [
+            "DAO Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/11/photo_2021-11-08_20-33-38.jpg",
+        "dao_cover": "",
+        "website_link": "https://snapshot.org/#/",
+        "discord_link": "https://discord.com/invite/yHrYMzyyY9",
+        "twitter_link": "https://twitter.com/SnapshotLabs",
+        "additional_link": "https://github.com/snapshot-labs"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Socket",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/03/FzUmNid1_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.socket.tech/",
+        "discord_link": "https://discord.com/invite/zfKJR8yWaH",
+        "twitter_link": "https://twitter.com/socketdottech",
+        "additional_link": "https://github.com/SocketDotTech/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Sperax",
+        "description": "",
+        "dao_category": [
+            "Stablecoins"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/UEWswLxF_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://sperax.io/",
+        "discord_link": "https://discord.gg/Tt4p8BvZ",
+        "twitter_link": "https://twitter.com/SperaxUSD",
+        "additional_link": "https://github.com/Sperax"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Stargate",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/03/s9_nNOkD_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://stargate.finance/",
+        "discord_link": "https://stargate.finance/discord",
+        "twitter_link": "https://twitter.com/StargateFinance",
+        "additional_link": "https://github.com/stargate-protocol"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Stratos",
+        "description": "",
+        "dao_category": [
+            "NFT Marketplaces"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/03/6-5DSulF_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://stratosnft.io/",
+        "discord_link": "https://discord.gg/ENYqCbz5nN",
+        "twitter_link": "https://twitter.com/stratosnft",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Strips Finance",
+        "description": "",
+        "dao_category": [
+            "Perpetuals"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/2DcVoB6n_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://app.strips.finance",
+        "discord_link": "https://discord.gg/AYsvNhgwGb",
+        "twitter_link": "https://twitter.com/StripsFinance",
+        "additional_link": "https://github.com/strips-finance/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Superfluid",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/K0bTNmr9_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://www.superfluid.finance/home",
+        "discord_link": "https://discord.com/invite/XsK7nahanQ",
+        "twitter_link": "https://twitter.com/superfluid_hq",
+        "additional_link": "https://github.com/superfluid-finance"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Sushi",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/ltI7e1Lb_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://sushi.com/",
+        "discord_link": "https://discord.gg/CD2YdZzb7Z",
+        "twitter_link": "https://twitter.com/sushiswap",
+        "additional_link": "https://github.com/sushiswap"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Swapr",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/7uLnN-Eg_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://swapr.eth.limo/#/swap?chainId=41261",
+        "discord_link": "https://discord.com/invite/4QXEJQkvHH",
+        "twitter_link": "https://twitter.com/SwaprEth",
+        "additional_link": "https://github.com/levelkdev/dxswap-dapp"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Swing",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/07/Va5BYbWZ_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://swing.xyz/",
+        "discord_link": "https://discord.com/invite/VYgbmdkwsS",
+        "twitter_link": "https://twitter.com/swing_xyz",
+        "additional_link": "https://github.com/polkaswitch"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Swipelux",
+        "description": "",
+        "dao_category": [
+            "Fiat On-Ramp"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/Lo-VxeaH_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://swipelux.com/",
+        "discord_link": "https://discord.gg/hbpkRHUt",
+        "twitter_link": "https://twitter.com/swipelux",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Swype",
+        "description": "",
+        "dao_category": [
+            "Fiat On-Ramp"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/zmQz_feS_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.swype.com",
+        "discord_link": "https://www.discord.gg/swype",
+        "twitter_link": "https://www.twitter.com/getswype",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Synapse Protocol",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/09/TMzMKnlB_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://synapseprotocol.com/?inputCurrency=ETH&outputCurrency=ETH&outputChain=42161",
+        "discord_link": "https://discord.gg/synapseprotocol",
+        "twitter_link": "https://twitter.com/SynapseProtocol",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "SynFutures",
+        "description": "",
+        "dao_category": [
+            "Perpetuals"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/LfpUubmR_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://www.synfutures.com/",
+        "discord_link": "https://discord.com/invite/uu5ZNaTZE3",
+        "twitter_link": "https://twitter.com/SynFuturesDefi",
+        "additional_link": "https://github.com/SynFutures"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Tales of Elleria",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/ZTTo-1_4_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "http://talesofelleria.com",
+        "discord_link": "https://discord.com/invite/talesofelleria",
+        "twitter_link": "https://twitter.com/TalesofElleria",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Tenderly",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/12/tenderlyapp.jpeg",
+        "dao_cover": "",
+        "website_link": "https://tenderly.co/",
+        "discord_link": "https://discord.com/invite/fBvDJYR",
+        "twitter_link": "https://twitter.com/TenderlyApp",
+        "additional_link": "https://github.com/Tenderly"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Tether",
+        "description": "",
+        "dao_category": [
+            "Stablecoins"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/09/tether-logo.png",
+        "dao_cover": "",
+        "website_link": "https://tether.to/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/Tether_to/",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Thales",
+        "description": "",
+        "dao_category": [
+            "Options"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/09/H20jU6-v_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://thalesmarket.io/",
+        "discord_link": "https://discord.com/invite/thales",
+        "twitter_link": "https://twitter.com/thalesmarket",
+        "additional_link": "https://github.com/thales-markets"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "The Graph",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/C4RKAej-_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://thegraph.com/",
+        "discord_link": "https://discord.com/invite/vtvv7FP",
+        "twitter_link": "https://twitter.com/graphprotocol",
+        "additional_link": "https://github.com/graphprotocol"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "The Lost Donkeys",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/donkeys1.jpeg",
+        "dao_cover": "",
+        "website_link": "https://www.thelostdonkeys.com/",
+        "discord_link": "https://discord.com/invite/TheLostDonkeys",
+        "twitter_link": "https://twitter.com/TheLostDonkeys",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Timeless Finance",
+        "description": "",
+        "dao_category": [
+            "Yield Optimization"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/09/0w7C-t7F_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://timelessfi.com/",
+        "discord_link": "https://discord.gg/MncaVpY9ZV",
+        "twitter_link": "https://twitter.com/timeless_fi",
+        "additional_link": "https://github.com/timeless-fi"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Toadstoolz",
+        "description": "",
+        "dao_category": [
+            "NFTs"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/5NL3I13i_400x400-1.jpg",
+        "dao_cover": "",
+        "website_link": "http://toadstoolz.lol",
+        "discord_link": "https://discord.com/invite/toadstoolz",
+        "twitter_link": "https://twitter.com/toadstoolzNFT",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "TofuNFT",
+        "description": "",
+        "dao_category": [
+            "NFT Marketplaces"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/01/tofupic.jpeg",
+        "dao_cover": "",
+        "website_link": "https://tofunft.com/arbi",
+        "discord_link": "https://discord.gg/3wFUTZmTm7",
+        "twitter_link": "https://twitter.com/tofuNFT",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Tokenlon",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/bRlW_JA8_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://tokenlon.im/instant",
+        "discord_link": "https://discord.com/invite/ZFf4Cye",
+        "twitter_link": "https://twitter.com/tokenlon",
+        "additional_link": "https://github.com/consenlabs/tokenlon-contracts"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "TokenPocket",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/X0WQBtOj_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.tokenpocket.pro/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/TokenPocket_TP",
+        "additional_link": "https://github.com/TP-Lab"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Transak",
+        "description": "",
+        "dao_category": [
+            "Fiat On-Ramp"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/photo_2022-01-29_08-32-43.jpg",
+        "dao_cover": "",
+        "website_link": "https://transak.com/",
+        "discord_link": "https://discord.com/invite/KeT6QZV",
+        "twitter_link": "https://twitter.com/intent/follow?screen_name=transak_finance",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Trove",
+        "description": "",
+        "dao_category": [
+            "NFT Marketplaces"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/06/ChuW04Xr_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://trove.treasure.lol/",
+        "discord_link": "https://discord.gg/treasuredao",
+        "twitter_link": "https://twitter.com/TroveByTreasure",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "TrueUSD",
+        "description": "",
+        "dao_category": [
+            "Stablecoins"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/06/pQGW_Wmo_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://trueusd.com/",
+        "discord_link": "https://discord.com/invite/trueusd",
+        "twitter_link": "https://twitter.com/tusdio",
+        "additional_link": "https://github.com/trusttoken/smart-contracts"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Truffle Suite",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/i05qk7Ey_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.trufflesuite.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/trufflesuite",
+        "additional_link": "https://github.com/trufflesuite"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Trust Wallet",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/01/TWT-Tao-Xu.png",
+        "dao_cover": "",
+        "website_link": "https://trustwallet.com",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/TrustWallet",
+        "additional_link": "https://github.com/trustwallet/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "TxStreet",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/07/cv5986X_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://txstreet.com/v/arbi-eth",
+        "discord_link": "https://discord.com/invite/2dhbRP6zDX",
+        "twitter_link": "https://twitter.com/txstreetCom",
+        "additional_link": "https://github.com/txstreet"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Umami Finance",
+        "description": "",
+        "dao_category": [
+            "Yield Optimization"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/07/KuuMFTSQ_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://umami.finance/",
+        "discord_link": "https://discord.com/invite/zn6hsTmTSM",
+        "twitter_link": "https://twitter.com/UmamiFinance",
+        "additional_link": "https://github.com/arbi-s"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Umbra",
+        "description": "",
+        "dao_category": [
+            "Payments"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/04/UVzc9DX8_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://app.umbra.cash",
+        "discord_link": "https://discord.com/invite/uw4y5J2p7C",
+        "twitter_link": "https://twitter.com/UmbraCash",
+        "additional_link": "https://github.com/ScopeLift/umbra-protocol"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Umbrella NEtwork",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/03/1500x500-9-1.jpeg",
+        "dao_cover": "",
+        "website_link": "https://www.umb.network/",
+        "discord_link": "https://discord.com/channels/755132916895580291/857181555244138517",
+        "twitter_link": "https://twitter.com/UmbNetwork",
+        "additional_link": "https://github.com/umbrella-network"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Umbria Network",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/07/8MNnEEgH_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://bridge.umbria.network/bridge/ethereum-arbitrum/eth",
+        "discord_link": "https://discord.gg/DGRMegpsD6",
+        "twitter_link": "https://twitter.com/NetworkUmbria",
+        "additional_link": "https://github.com/umbria-team"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Unidex",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/Ayho3lv-_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://unidex.exchange/",
+        "discord_link": "https://discord.com/invite/WzJPSjGj4h",
+        "twitter_link": "https://twitter.com/UniDexFinance",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Union",
+        "description": "",
+        "dao_category": [
+            "Lending"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/5W2BAk92_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://union.finance/",
+        "discord_link": "https://discord.com/invite/cZagzJ3p8G",
+        "twitter_link": "https://twitter.com/unionprotocol",
+        "additional_link": "https://github.com/unioncredit"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Uniswap",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/wG2eTAfD_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://uniswap.org/",
+        "discord_link": "https://discord.com/invite/FCfyBSbCU5",
+        "twitter_link": "https://twitter.com/Uniswap",
+        "additional_link": "https://github.com/Uniswap"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Unlock",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/10/unlock_logo.jpeg",
+        "dao_cover": "",
+        "website_link": "https://unlock-protocol.com/",
+        "discord_link": "https://discord.gg/kQv8HZXRCp",
+        "twitter_link": "https://twitter.com/UnlockProtocol",
+        "additional_link": "https://github.com/unlock-protocol"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Unstoppable Wallet",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/pHnVgNIT_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "",
+        "discord_link": "https://discord.gg/2HunZktq",
+        "twitter_link": "https://twitter.com/unstoppablebyhs",
+        "additional_link": "https://github.com/horizontalsystems"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "USDC",
+        "description": "",
+        "dao_category": [
+            "Stablecoins"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/usdc.png",
+        "dao_cover": "",
+        "website_link": "https://www.circle.com/en/usdc",
+        "discord_link": "https://discord.com/invite/Q7bKN5y",
+        "twitter_link": "https://twitter.com/circlepay",
+        "additional_link": "https://github.com/centrehq"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Utopia Labs",
+        "description": "",
+        "dao_category": [
+            "DAO Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/04/iBM-uj-H_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.utopialabs.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/utopialabs_",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "VarenX",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/07/O1jO3rE4_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://arbitrum.varenx.com/",
+        "discord_link": "https://discord.varen.finance/",
+        "twitter_link": "https://twitter.varen.finance/",
+        "additional_link": "https://github.varen.finance/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Vendor Finance",
+        "description": "",
+        "dao_category": [
+            "Lending"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/09/gbXwB3Xw_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://vendor.finance/explore",
+        "discord_link": "https://discord.gg/vd8bh74J",
+        "twitter_link": "https://twitter.com/VendorFI",
+        "additional_link": "https://github.com/VendorFinance/vendor-contracts-public"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Vesta Finance",
+        "description": "",
+        "dao_category": [
+            "Stablecoins"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/vesta.png",
+        "dao_cover": "",
+        "website_link": "https://vestafinance.xyz/",
+        "discord_link": "https://discord.com/invite/yKsr6PRtxK",
+        "twitter_link": "https://twitter.com/vestafinance",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Volmex Finance",
+        "description": "",
+        "dao_category": [
+            "dApps"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/10/ox2AybGw_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://app.volmex.finance/",
+        "discord_link": "https://discord.com/invite/QCCMVnecBz",
+        "twitter_link": "https://twitter.com/volmexfinance",
+        "additional_link": "https://github.com/volmexfinance"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Vovo Finance",
+        "description": "",
+        "dao_category": [
+            "dApps"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/VovoLogo-Vovo-Team.png",
+        "dao_cover": "",
+        "website_link": "https://vovo.finance/",
+        "discord_link": "https://discord.gg/7xEKgjMW37",
+        "twitter_link": "https://twitter.com/VovoFinance",
+        "additional_link": "https://github.com/VovoFinance"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "WardenSwap",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/10/Wardenswap-logo-Apinya-Choeychan.jpeg",
+        "dao_cover": "",
+        "website_link": "https://www.wardenswap.com/",
+        "discord_link": "https://discord.com/invite/NdBymRxmxa",
+        "twitter_link": "https://twitter.com/WardenSwap",
+        "additional_link": "https://github.com/WardenSwap"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "WBTC",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/d2T9nXpn_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://wbtc.network/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/WrappedBTC",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Web3Auth",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/JAe7k861_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://web3auth.io/",
+        "discord_link": "https://discord.gg/web3auth",
+        "twitter_link": "https://twitter.com/web3auth",
+        "additional_link": "https://github.com/web3auth"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "WePiggy",
+        "description": "",
+        "dao_category": [
+            "Lending"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/5VRhU8w6_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.wepiggy.com/",
+        "discord_link": "https://discord.com/invite/pew9k58",
+        "twitter_link": "https://twitter.com/wepiggydotcom",
+        "additional_link": "https://github.com/WePiggy"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Wirex",
+        "description": "",
+        "dao_category": [
+            "Fiat On-Ramp"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/Z0uAglMT_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://wirexapp.com",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/wirexapp",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Wonderverse",
+        "description": "",
+        "dao_category": [
+            "Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/06/0t2GiVRC_400x400.png",
+        "dao_cover": "",
+        "website_link": "https://www.wonderverse.xyz/",
+        "discord_link": "https://discord.gg/JgSkhDVwst",
+        "twitter_link": "https://twitter.com/wonderverse_xyz",
+        "additional_link": "https://github.com/wondrous-dev/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "XDEFI Wallet",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/07/mz-ycdke_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://www.xdefi.io/",
+        "discord_link": "https://discord.gg/xdefiwallet",
+        "twitter_link": "https://twitter.com/xdefi_wallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "xDollar",
+        "description": "",
+        "dao_category": [
+            "Lending"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/10/logo-web-transparent_2-1-captain-xdo.png",
+        "dao_cover": "",
+        "website_link": "https://xdollar-arb.mcn.ventures/#/",
+        "discord_link": "https://discord.com/invite/c8c7Wm2EEx",
+        "twitter_link": "https://twitter.com/xDollarFi",
+        "additional_link": "https://github.com/xDollar-Finance/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "xToken",
+        "description": "",
+        "dao_category": [
+            "Liquidity Management"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/12/xTokenlogo-Brett-Musser.png",
+        "dao_cover": "",
+        "website_link": "https://xtoken.market/",
+        "discord_link": "https://discord.gg/JxB8nf6S",
+        "twitter_link": "https://twitter.com/xtokenmarket?s=20",
+        "additional_link": "https://github.com/xtokenmarket"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "XY Finance",
+        "description": "",
+        "dao_category": [
+            "Bridges"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/05/ALMnRaAP_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://xy.finance/",
+        "discord_link": "https://discord.gg/xyfinance",
+        "twitter_link": "https://twitter.com/xyfinance",
+        "additional_link": "https://github.com/XY-Finance"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "yearn.finance",
+        "description": "",
+        "dao_category": [
+            "Yield Optimization"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/02/yearn.jpeg",
+        "dao_cover": "",
+        "website_link": "https://yearn.finance/#/home",
+        "discord_link": "https://discord.com/invite/6PNv2nF",
+        "twitter_link": "https://twitter.com/iearnfinance",
+        "additional_link": "https://github.com/yearn"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Yield Protocol",
+        "description": "",
+        "dao_category": [
+            "Lending"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/03/s3oj0HeF_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://yieldprotocol.com/",
+        "discord_link": "https://discord.gg/JAFfDj5",
+        "twitter_link": "https://twitter.com/yield",
+        "additional_link": "https://github.com/yieldprotocol/"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "YIN Finance",
+        "description": "",
+        "dao_category": [
+            "Yield Optimization"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/03/SDZxu1G__400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://yin.finance/",
+        "discord_link": "https://discord.com/invite/cdHGD9Agny",
+        "twitter_link": "https://twitter.com/YinFinance",
+        "additional_link": "https://github.com/YinFinance"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Zapper",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/09/yNI_w334_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://zapper.fi/",
+        "discord_link": "https://discord.gg/Rf3YJ3V",
+        "twitter_link": "https://twitter.com/zapper_fi",
+        "additional_link": "https://github.com/Zapper-fi"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Zerion",
+        "description": "",
+        "dao_category": [
+            "Wallets"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2021/08/pFqlKyrO_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://app.zerion.io/",
+        "discord_link": "https://discord.com/invite/B4kjkgv",
+        "twitter_link": "https://twitter.com/zerion_io",
+        "additional_link": "https://github.com/zeriontech"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "Zero Code NFT",
+        "description": "",
+        "dao_category": [
+            "NFT Tools"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/07/FB58Vp1o_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://zerocodenft.com",
+        "discord_link": "https://discord.gg/BFbQMv7AQV",
+        "twitter_link": "https://twitter.com/Zero_Code_NFT",
+        "additional_link": "https://github.com/zerocodenft"
+    },
+    {
+        "chains": [
+            "arbitrum"
+        ],
+        "dao_name": "ZigZag",
+        "description": "",
+        "dao_category": [
+            "Swapping"
+        ],
+        "dao_logo": "https://portal.arbitrum.one/wp-content/uploads/2022/08/kjpL6Cnx_400x400-1-1.jpg",
+        "dao_cover": "",
+        "website_link": "https://trade.zigzag.exchange/",
+        "discord_link": "https://discord.com/invite/zigzag",
+        "twitter_link": "https://twitter.com/ZigZagExchange",
+        "additional_link": "https://github.com/ZigZagExchange"
+    }
+]

@@ -1,0 +1,1010 @@
+[
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Wallet.io",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/44be6e8e8bf77525555e42110688fe17/c809b132/walletio.png",
+        "dao_cover": "",
+        "website_link": "https://walletio.io/download",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/io_wallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Color Wallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/77c3f123e2d60c24aaf55e39c78777f3/b27c429c/36826cee.png",
+        "dao_cover": "",
+        "website_link": "https://wallet.rc.color-platform.org/#/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/colorsorgmx",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Math Wallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/5680c027bbbb1f3b6f36da417421ca08/6cb88dbc/Math.svg",
+        "dao_cover": "",
+        "website_link": "https://mathwallet.org/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/Mathwallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "MAGNUM",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/ecd0807884c5a38102d94064b6c951b2/9d13f67b/WTPmoiY8_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://magnumwallet.co/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/Magnum_Wallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "EXODUS",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/f095ef90a7456a02a56020097ff812a8/2e29b6b9/exodus.svg",
+        "dao_cover": "",
+        "website_link": "https://www.exodus.io/mobile",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/exodus_io/",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "HBTC Wallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/cbacadeed47f614234cbdc131cf86939/8a0f8b46/hbtc.svg",
+        "dao_cover": "",
+        "website_link": "https://hbtcchain.io/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Cosmostation",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/83c1e83424e8ba5f4aa24d7e30d4c589/9bcffb56/cosmostation.svg",
+        "dao_cover": "",
+        "website_link": "https://www.cosmostation.io/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/IBCwallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Keplr",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/bac5b682ac37280d2aed158a5d44bada/03f36288/icon.svg",
+        "dao_cover": "",
+        "website_link": "https://keplr.app",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/keplrwallet",
+        "additional_link": "https://github.com/chainapsis/keplr-wallet"
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Guarda Wallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/ca4c3dae1ce1d3ef149a8161353f7945/d33b5f14/guarda.svg",
+        "dao_cover": "",
+        "website_link": "https://guarda.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/GuardaWallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "AToken",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/f740592b82cfbd403e82dacf9d8e28d9/2dadb5e1/atoken.svg",
+        "dao_cover": "",
+        "website_link": "https://www.atoken.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/ATokenOfficial",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Citadel One",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/1eb37975641cf140064625aecbc4cc88/a873ada1/citadel.svg",
+        "dao_cover": "",
+        "website_link": "https://app.citadel.one/wallet/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/CitadelXCT",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "HyperPay",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/58d3373057b3e1e4f76e36e18c759ae1/8905e95b/hyperpay.svg",
+        "dao_cover": "",
+        "website_link": "https://www.hyperpay.tech/wallet_offchain",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/Hyperpay_tech/photo",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Rainbow Wallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/c3a1b3e49e765bac9f79da3c7a050ba3/0bb29d5b/rainbow.png",
+        "dao_cover": "",
+        "website_link": "https://www.rainbow.one/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/WalletRainbow",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "MEET ONE",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/ac8471273fa3e70b3a028fcff5018748/a14da134/new-logo-9497c86d3dca013837ade55a9c929ec4.png",
+        "dao_cover": "",
+        "website_link": "https://meet.one/download/en?changelang=1",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Wetez",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/118d90cd403c70bc6b3a8868f687c850/8059cb42/wetez.png",
+        "dao_cover": "",
+        "website_link": "https://www.wetez.io/pc/wetez",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/Wetez_wallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Shapeshift",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/6613131afb1aea6bf22a1fdae6ca0d84/ad6c31ac/shapeshift.svg",
+        "dao_cover": "",
+        "website_link": "https://shapeshift.com/invite",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/ShapeShift_io",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Wallet.io",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/44be6e8e8bf77525555e42110688fe17/c809b132/walletio.png",
+        "dao_cover": "",
+        "website_link": "https://walletio.io/download",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/io_wallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "ViaWallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/14e64b85254ca41f082f0c7fc0884738/35a6ab96/viawallet.svg",
+        "dao_cover": "",
+        "website_link": "https://viawallet.com/?lang=en_US",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/viawallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "TokenPocket",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/7c68a61731c03dae5e394c6dbbadbf37/dc82a5fe/tokenpocket.svg",
+        "dao_cover": "",
+        "website_link": "https://www.tokenpocket.pro/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/TokenPocket_TP",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Ledger Live",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/96dbafcb7f64b580338a4dad52fcb36b/16ddef32/ad8a9c962daa67c85516fde4fb0913fe_icon.png",
+        "dao_cover": "",
+        "website_link": "https://www.ledger.com/ledger-live",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/Ledger/photo",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Math Wallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/5680c027bbbb1f3b6f36da417421ca08/6cb88dbc/Math.svg",
+        "dao_cover": "",
+        "website_link": "https://mathwallet.org/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/Mathwallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Huobi Wallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/f9225fe96c8f7c7a73304eaa4c80bfc8/7bfef372/huobi.svg",
+        "dao_cover": "",
+        "website_link": "https://www.huobiwallet.com/en/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/HuobiWallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Easyzone",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/a8be477ee25bece5051b5f9e6edcea70/e199b180/easyzone.png",
+        "dao_cover": "",
+        "website_link": "https://x-token.network/wallet/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/QOS_Foundation",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Qbao Wallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/2b2dde346246d67d7a1821e82e488ba5/a87a219e/VZr8_Z1e_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://qbao.fund/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/Qbao2339",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "AirGap",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/1113b3d39670bc2342ad939b3e5db65c/eb43e121/airgap.svg",
+        "dao_cover": "",
+        "website_link": "https://airgap.it/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/AirGap_it",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "EXODUS",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/f095ef90a7456a02a56020097ff812a8/2e29b6b9/exodus.svg",
+        "dao_cover": "",
+        "website_link": "https://www.exodus.io/mobile",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/exodus_io/",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "HBTC Wallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/cbacadeed47f614234cbdc131cf86939/8a0f8b46/hbtc.svg",
+        "dao_cover": "",
+        "website_link": "https://hbtcchain.io/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Trust Wallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/c5627e2e7538040f7c0627a03223fed9/5f2e00f1/trustwallet.svg",
+        "dao_cover": "",
+        "website_link": "https://trustwallet.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/trustwalletapp",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Cosmostation",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/83c1e83424e8ba5f4aa24d7e30d4c589/9bcffb56/cosmostation.svg",
+        "dao_cover": "",
+        "website_link": "https://www.cosmostation.io/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/IBCwallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Atomic Wallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/239de403a1f0fba69137c9f036fe093c/1f1018cc/atomicwallet.svg",
+        "dao_cover": "",
+        "website_link": "https://www.atoken.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/atomicwallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Guarda Wallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/ca4c3dae1ce1d3ef149a8161353f7945/d33b5f14/guarda.svg",
+        "dao_cover": "",
+        "website_link": "https://guarda.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/GuardaWallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "AToken",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/f740592b82cfbd403e82dacf9d8e28d9/2dadb5e1/atoken.svg",
+        "dao_cover": "",
+        "website_link": "https://www.atoken.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/ATokenOfficial",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "ImToken",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/28bd38fe0d42f225c1b76d59a8283591/b7646dad/imtoken.svg",
+        "dao_cover": "",
+        "website_link": "https://token.im/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/imTokenOfficial",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "SyncNode Wallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/942043f53f2757675e7fcd505eb08f05/0ca05162/syncnode.svg",
+        "dao_cover": "",
+        "website_link": "https://wallet.syncnode.ro/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Coinex",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/4fb49363a72922aaa5b67f7c34a83979/09aecba8/coinex.svg",
+        "dao_cover": "",
+        "website_link": "https://www.coinex.com/mobile/download/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/coinexcom",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Cobo",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/ebe2fc45053701070829a76ab8570236/031f7335/cobo-default-ab59980dea1054a52cf120568de303a9.png",
+        "dao_cover": "",
+        "website_link": "https://cobo.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/Cobo_Wallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "AnchorUSD",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/b93a42136e486f47b8f4a253b65f9d63/570d4a3d/anchorusd.svg",
+        "dao_cover": "",
+        "website_link": "https://www.anchorusd.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/anchorusd",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "HyperPay",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/58d3373057b3e1e4f76e36e18c759ae1/8905e95b/hyperpay.svg",
+        "dao_cover": "",
+        "website_link": "https://www.hyperpay.tech/wallet_offchain",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/Hyperpay_tech/photo",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Rainbow Wallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/c3a1b3e49e765bac9f79da3c7a050ba3/0bb29d5b/rainbow.png",
+        "dao_cover": "",
+        "website_link": "https://www.rainbow.one/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/WalletRainbow",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "MEET ONE",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/ac8471273fa3e70b3a028fcff5018748/a14da134/new-logo-9497c86d3dca013837ade55a9c929ec4.png",
+        "dao_cover": "",
+        "website_link": "https://meet.one/download/en?changelang=1",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Wetez",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/118d90cd403c70bc6b3a8868f687c850/8059cb42/wetez.png",
+        "dao_cover": "",
+        "website_link": "https://www.wetez.io/pc/wetez",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/Wetez_wallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Shapeshift",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/6613131afb1aea6bf22a1fdae6ca0d84/ad6c31ac/shapeshift.svg",
+        "dao_cover": "",
+        "website_link": "https://shapeshift.com/invite",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/ShapeShift_io",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Wallet.io",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/44be6e8e8bf77525555e42110688fe17/c809b132/walletio.png",
+        "dao_cover": "",
+        "website_link": "https://walletio.io/download",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/io_wallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "ViaWallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/14e64b85254ca41f082f0c7fc0884738/35a6ab96/viawallet.svg",
+        "dao_cover": "",
+        "website_link": "https://viawallet.com/?lang=en_US",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/viawallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "TokenPocket",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/7c68a61731c03dae5e394c6dbbadbf37/dc82a5fe/tokenpocket.svg",
+        "dao_cover": "",
+        "website_link": "https://www.tokenpocket.pro/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/TokenPocket_TP",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Ledger Live",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/96dbafcb7f64b580338a4dad52fcb36b/16ddef32/ad8a9c962daa67c85516fde4fb0913fe_icon.png",
+        "dao_cover": "",
+        "website_link": "https://www.ledger.com/ledger-live",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/Ledger/photo",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Math Wallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/5680c027bbbb1f3b6f36da417421ca08/6cb88dbc/Math.svg",
+        "dao_cover": "",
+        "website_link": "https://mathwallet.org/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/Mathwallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "MAGNUM",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/ecd0807884c5a38102d94064b6c951b2/9d13f67b/WTPmoiY8_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://magnumwallet.co/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/Magnum_Wallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Huobi Wallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/f9225fe96c8f7c7a73304eaa4c80bfc8/7bfef372/huobi.svg",
+        "dao_cover": "",
+        "website_link": "https://www.huobiwallet.com/en/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/HuobiWallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Easyzone",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/a8be477ee25bece5051b5f9e6edcea70/e199b180/easyzone.png",
+        "dao_cover": "",
+        "website_link": "https://x-token.network/wallet/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/QOS_Foundation",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Qbao Wallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/2b2dde346246d67d7a1821e82e488ba5/a87a219e/VZr8_Z1e_400x400.jpg",
+        "dao_cover": "",
+        "website_link": "https://qbao.fund/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/Qbao2339",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "AirGap",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/1113b3d39670bc2342ad939b3e5db65c/eb43e121/airgap.svg",
+        "dao_cover": "",
+        "website_link": "https://airgap.it/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/AirGap_it",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "EXODUS",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/f095ef90a7456a02a56020097ff812a8/2e29b6b9/exodus.svg",
+        "dao_cover": "",
+        "website_link": "https://www.exodus.io/mobile",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/exodus_io/",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "HBTC Wallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/cbacadeed47f614234cbdc131cf86939/8a0f8b46/hbtc.svg",
+        "dao_cover": "",
+        "website_link": "https://hbtcchain.io/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Trust Wallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/c5627e2e7538040f7c0627a03223fed9/5f2e00f1/trustwallet.svg",
+        "dao_cover": "",
+        "website_link": "https://trustwallet.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/trustwalletapp",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Cosmostation",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/83c1e83424e8ba5f4aa24d7e30d4c589/9bcffb56/cosmostation.svg",
+        "dao_cover": "",
+        "website_link": "https://www.cosmostation.io/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/IBCwallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Atomic Wallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/239de403a1f0fba69137c9f036fe093c/1f1018cc/atomicwallet.svg",
+        "dao_cover": "",
+        "website_link": "https://www.atoken.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/atomicwallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Guarda Wallet",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/ca4c3dae1ce1d3ef149a8161353f7945/d33b5f14/guarda.svg",
+        "dao_cover": "",
+        "website_link": "https://guarda.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/GuardaWallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "AToken",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/f740592b82cfbd403e82dacf9d8e28d9/2dadb5e1/atoken.svg",
+        "dao_cover": "",
+        "website_link": "https://www.atoken.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/ATokenOfficial",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "ImToken",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/28bd38fe0d42f225c1b76d59a8283591/b7646dad/imtoken.svg",
+        "dao_cover": "",
+        "website_link": "https://token.im/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/imTokenOfficial",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Coinex",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/4fb49363a72922aaa5b67f7c34a83979/09aecba8/coinex.svg",
+        "dao_cover": "",
+        "website_link": "https://www.coinex.com/mobile/download/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/coinexcom",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "Cobo",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/ebe2fc45053701070829a76ab8570236/031f7335/cobo-default-ab59980dea1054a52cf120568de303a9.png",
+        "dao_cover": "",
+        "website_link": "https://cobo.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/Cobo_Wallet",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "cosmos"
+        ],
+        "dao_name": "AnchorUSD",
+        "description": "",
+        "dao_category": [
+            "wallet"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/b93a42136e486f47b8f4a253b65f9d63/570d4a3d/anchorusd.svg",
+        "dao_cover": "",
+        "website_link": "https://www.anchorusd.com/",
+        "discord_link": "",
+        "twitter_link": "https://twitter.com/anchorusd",
+        "additional_link": ""
+    }
+]

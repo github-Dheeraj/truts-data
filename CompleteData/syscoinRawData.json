@@ -1,0 +1,566 @@
+[
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "Ankr",
+        "description": "Ankr provides streamlined access to their global network of nodes.",
+        "dao_category": [
+            "ALL",
+            "Development",
+            "Infra"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/ankr_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://ankr.com/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "ApeSwap",
+        "description": "ApeSwap has the tools, community, and connections to support your decentralized finance needs.",
+        "dao_category": [
+            "ALL",
+            "DeFi"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/apeswap_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://apeswap.finance/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "Apex",
+        "description": "Apex is a true Node as a Service protocol dedicated to empowering Web 3.0.",
+        "dao_category": [
+            "ALL",
+            "Development",
+            "Infra"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/apex_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://apexnodes.io/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "Assure Defi",
+        "description": "The verification gold standard for project owners in crypto.",
+        "dao_category": [
+            "ALL",
+            "DeFi"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/assuredefi_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://assuredefi.com/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "Beefy",
+        "description": "Beefy is a Decentralized, Multichain Yield Optimizer.",
+        "dao_category": [
+            "ALL",
+            "DeFi"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/beefy_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://beefy.com/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "BlockDemy",
+        "description": "Blockdemy is an educational hub dedicated to the training in the technology and Blockchain ecosystem.",
+        "dao_category": [
+            "ALL",
+            "Education",
+            "Development"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/blockdemy_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://blockdemy.com/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "Bounce Finance",
+        "description": "Bounce is a Web3 Marketplace Protocol.",
+        "dao_category": [
+            "ALL",
+            "DeFi"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/bounce_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://bounce.finance/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "Build it Merchants",
+        "description": "A cross-gaming platform in and out of blockchain.",
+        "dao_category": [
+            "ALL",
+            "NFT",
+            "GameFi",
+            "Metaverse"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/buildit_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://www.builditm.com/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "ChainPort",
+        "description": "ChainPort is a next-gen custodian secure bridge that lets you hop across various blockchains at a click.",
+        "dao_category": [
+            "ALL",
+            "Bridge",
+            "Development"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/chainport_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://www.chainport.io/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "Coinify",
+        "description": "Providing the infrastructure for over 2 million users to buy, sell and pay with crypto.",
+        "dao_category": [
+            "ALL",
+            "Development",
+            "Payments"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/coinify_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://www.coinify.com/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "DeNet.Desk",
+        "description": "Customize the list of dApps for each blockchain and switch the network with just one click!",
+        "dao_category": [
+            "ALL",
+            "dApp",
+            "Explorer"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/denet_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://denet.pro/en/desk/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "DystoWorld",
+        "description": "Transcending digital goods into the NFT powered metaverse.",
+        "dao_category": [
+            "ALL",
+            "NFT",
+            "GameFi",
+            "Metaverse"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/dystoworld_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://dystoworld.com/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "Equalizer",
+        "description": "The first dedicated platform that equalizes the decentralized markets.",
+        "dao_category": [
+            "ALL",
+            "DeFi"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/equalizer_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://equalizer.finance/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "GetBlock",
+        "description": "Blockchain node infrastructure for building dApps.",
+        "dao_category": [
+            "ALL",
+            "Development",
+            "Infra"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/getblock_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://getblock.io/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "Hacken",
+        "description": "We make Web3 a safer place by protecting projects from getting hacked.",
+        "dao_category": [
+            "ALL",
+            "Security",
+            "Development"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/hacken_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://hacken.io/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "KOLnet",
+        "description": "Worlds first Marketing Launchpad introducing Initial Marketing Offerings (IMOs).",
+        "dao_category": [
+            "ALL",
+            "Bridge",
+            "Development"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/kolnet_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://kolnet.io/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "Luxy",
+        "description": "The World's 1st multichain #NFT Marketplace that is Green, Scalable, Cheap & Fast.",
+        "dao_category": [
+            "ALL",
+            "NFT",
+            "Metaverse"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/luxy_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://luxy.io/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "MudAI",
+        "description": "MudAi - The world's second nation.",
+        "dao_category": [
+            "ALL",
+            "NFT",
+            "GameFi",
+            "Metaverse"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/mudai_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://www.mudai.city/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "NewsCrypto",
+        "description": "All in one crypto suite - Trading tools, education, bridges, metaverse & copy trade. ",
+        "dao_category": [
+            "ALL",
+            "Education",
+            "Development"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/newscrypto_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://newscrypto.io/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "Nord",
+        "description": "Nord Finance is an advanced decentralized financial ecosystem designed to simplify DeFi investing.",
+        "dao_category": [
+            "ALL",
+            "DeFi"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/nord_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://nordfinance.io/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "ORAIchain",
+        "description": "AI Layer 1 for Data Economy & Oracle Services.",
+        "dao_category": [
+            "ALL",
+            "Development",
+            "Infra"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/oraichain_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://orai.io/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "Pegasys",
+        "description": "The leading AMM protocol on Syscoin.",
+        "dao_category": [
+            "ALL",
+            "DeFi"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/pegasys_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://pegasys.finance/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "QiDAO",
+        "description": "Mai Finance is an open source and non-custodial stable protocol for extracting value out of priced assets.",
+        "dao_category": [
+            "ALL",
+            "DeFi"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/qidao_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://www.mai.finance/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "Revest",
+        "description": "We built (and are building) Financial NFTs.",
+        "dao_category": [
+            "ALL",
+            "DeFi"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/revest_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://www.resonate.finance/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "Samurai Starter",
+        "description": "Incubating the most innovative projects in the Web3 space.",
+        "dao_category": [
+            "ALL",
+            "NFT",
+            "GameFi",
+            "Metaverse"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/samuraistarter_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://samurai.cyberfi.tech/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "SoySwap",
+        "description": "Decentralized Exchange on NEVM powered by Syscoin.",
+        "dao_category": [
+            "ALL",
+            "DeFi"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/soyswap_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://www.soyswap.com",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "StakeCube",
+        "description": "Earn. Trade. Build. Join the Future of Finance.",
+        "dao_category": [
+            "ALL",
+            "Staking"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/stakecube_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://stakecube.net/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "SYSpad",
+        "description": "First launchpad built on Syscoin.",
+        "dao_category": [
+            "ALL",
+            "Launchpad"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/syspad_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://mobile.twitter.com/syspad_official",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "TribeOne",
+        "description": "The First-Ever NFT lending platform.",
+        "dao_category": [
+            "ALL",
+            "DeFi"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/tribeone_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://tribeone.io/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "Unifi",
+        "description": "Building the foundation for a truly sustainable blockchain economy.",
+        "dao_category": [
+            "ALL",
+            "DeFi"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/unifi_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://unifiprotocol.com/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "Uno Re",
+        "description": "Insuring your DeFi journey.",
+        "dao_category": [
+            "ALL",
+            "DeFi"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/unore_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://unore.io/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    },
+    {
+        "chains": [
+            "syscoin"
+        ],
+        "dao_name": "ZKCross",
+        "description": "ZKCross is a zk-SNARK-based multi blockchain layer on top of native multichain applications.",
+        "dao_category": [
+            "ALL",
+            "Development"
+        ],
+        "dao_logo": "https://syscoin.org/imgs/projects/zkcross_logo.webp",
+        "dao_cover": "",
+        "website_link": "https://www.zkcross.org/",
+        "discord_link": "",
+        "twitter_link": "",
+        "additional_link": ""
+    }
+]
