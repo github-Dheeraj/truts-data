@@ -1,0 +1,18 @@
+[
+    {
+        "chains": [
+            "polygon"
+        ],
+        "dao_name": "Cosmos Hub",
+        "description": "",
+        "dao_category": [
+            "Infrastructure"
+        ],
+        "dao_logo": "https://dl.airtable.com/.attachments/e54f814bba8c0f9af8a3056020210de0/2d1155fb/cosmos-hub.svg?ts=1650538418&userId=usrmZaIXe1zM2tEHl&cs=80e471e806de1ac9",
+        "dao_cover": "",
+        "website_link": "https://cosmos.network",
+        "discord_link": "https://discord.gg/wUaUptB",
+        "twitter_link": "https://twitter.com/cosmos",
+        "additional_link": "https://github.com/cosmos/gaia"
+    }
+]

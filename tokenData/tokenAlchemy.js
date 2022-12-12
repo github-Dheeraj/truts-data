@@ -64,9 +64,9 @@ const getERC20TokensData = async (userAddress, evmNetwork) => {
 }
 
 const userAddress = "0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045";
-const evmNetwork = Network.ARB_MAINNET
+const evmNetwork = Network.ETH_MAINNET
 
-getERC20TokensData(userAddress, evmNetwork)
+//getERC20TokensData(userAddress, evmNetwork)
 
 
 const getNFTdata = async (userAddress, evmNetwork) => {
@@ -111,4 +111,4 @@ const getNFTdata = async (userAddress, evmNetwork) => {
 
 }
 
-//getNFTdata(userAddress, evmNetwork)
+getNFTdata(userAddress, evmNetwork)

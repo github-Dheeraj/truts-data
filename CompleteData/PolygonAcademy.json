@@ -1,0 +1,106 @@
+[
+    {
+        "title": "What is Polygons zkEVM?",
+        "description": "Learn how Polygons open source, EVM compatible zk-rollup helps Ethereum scale.",
+        "resource_link": "https://rise.articulate.com/share/f76ufpI4bPJN34kNpUOrDQTlxzzCs6GA#/",
+        "tags": [
+            "tutorials"
+        ]
+    },
+    {
+        "title": "The Merge & Polygon",
+        "description": "Learn about how the ETH Merge will impact projects building with Polygon.",
+        "resource_link": "https://rise.articulate.com/share/83P6ZMnHBX7ZZm4j-iXSvtjxdJbw2yo_#/",
+        "tags": [
+            "tutorials"
+        ]
+    },
+    {
+        "title": "Ultimate Guide to Polygon POS",
+        "description": "Gain a thorough understanding of Polygon POS architecture",
+        "resource_link": "https://eattheblocks-pro.teachable.com/p/polygon-development",
+        "tags": [
+            "tutorials"
+        ]
+    },
+    {
+        "title": "Foundation of PoS",
+        "description": "Learn how Supernets utilizes fundamental blockchain principles in offering a fully hosted private blockchain solution.",
+        "resource_link": "https://rise.articulate.com/share/3PixyyZYMfRlYABGEjpz5HPA8sE-WbI6#/",
+        "tags": [
+            "tutorials"
+        ]
+    },
+    {
+        "title": "What is Polygon Edge?",
+        "description": "Learn how to build dedicated blockchain newtorks tailored to your project needs.",
+        "resource_link": "https://rise.articulate.com/share/TEKVKPMQg08aViL-kv34dIwi3A4A8FUD#/",
+        "tags": [
+            "tutorials"
+        ]
+    },
+    {
+        "title": "Mint your first NFT on Polygon PoS with Repl.it",
+        "description": "Try your hand at building your first NFT minting dApp on Polygon PoS chain.",
+        "resource_link": "https://replit.com/@polygontechnology/Polygon-NFT-Starter",
+        "tags": [
+            "tutorials"
+        ]
+    },
+    {
+        "title": "Get MATIC on Polygon Mumbai",
+        "description": "We introduce you to how to get MATIC on Polygon Mumbai Testnet with the official Faucet from Polygon",
+        "resource_link": "https://blog.thirdweb.com/guides/get-matic-on-polygon-mumbai-testnet-faucet/",
+        "tags": [
+            "tutorials"
+        ]
+    },
+    {
+        "title": "Launch your Token on Polygon",
+        "description": "Why buy tokens when you can make your own? Launch your own token on Polygon Network in 30 mins",
+        "resource_link": "https://metaschool.so/course/launch-your-own-token-on-polygon-network-in-30-mins",
+        "tags": [
+            "tutorials"
+        ]
+    },
+    {
+        "title": "Build on Polygon",
+        "description": "Building a Dapp? This is a comprehensive guide on dApp development on Polygon.",
+        "resource_link": "https://openquest.xyz/tracks/build-on-polygon",
+        "tags": [
+            "tutorials"
+        ]
+    },
+    {
+        "title": "Build a DeFi dApp on Polygon",
+        "description": "Dive into the world of decentralized finance (DeFi) dApp build on the Polygon Network",
+        "resource_link": "https://www.pointer.gg/tutorials/polygon-amm/c725cd07-447b-46b3-b544-81516b172c5f",
+        "tags": [
+            "tutorials"
+        ]
+    },
+    {
+        "title": "Build your own ENS on Polygon",
+        "description": "Ship your own domain service on Polygon in a weekend",
+        "resource_link": "https://buildspace.so/builds/polygon-ens",
+        "tags": [
+            "tutorials"
+        ]
+    },
+    {
+        "title": "What are NFTs?",
+        "description": "Not a developer? No problem. Get started with NFTs, Polygon, Web3, Airdrops, Crypto",
+        "resource_link": "https://www.udemy.com/course/getting-started-with-nfts-polygon/",
+        "tags": [
+            "tutorials"
+        ]
+    },
+    {
+        "title": "Introduction to Polygon ID and Self-Sovereign Identity",
+        "description": "Learn how Polygon technology can help you build privacy-conscious online ID solutions.",
+        "resource_link": "https://rise.articulate.com/share/6yVef384BAU9-yEzMh4Qq9XGK0Hoxitf#/",
+        "tags": [
+            "tutorials"
+        ]
+    }
+]
